@@ -24,6 +24,37 @@ npm start
 
 The build includes a small compatibility pass for Next.js's [Windows static-export segment filename issue](https://github.com/vercel/next.js/issues/92339). It preserves original exported payloads and copies their flattened names so client navigation and prefetching work on any static host.
 
+## Deploy with Docker
+
+The multi-stage `Dockerfile` builds the Next.js static export and serves it on port **3000** with the included Node HTTP server. The final image runs as the non-root `node` user; it contains the exported site and server, without build dependencies.
+
+```sh
+docker build -t dgs-website .
+docker run -d --name dgs-website --restart unless-stopped --read-only --cap-drop ALL --security-opt no-new-privileges:true -p 3000:3000 dgs-website
+```
+
+Open `http://localhost:3000`. Put your HTTPS reverse proxy in front of this port for production. You can change the host port, for example `-p 8080:3000`.
+
+All `NEXT_PUBLIC_*` settings are **build-time settings** because this is a static export. Supply your real production URL and contact details when building; runtime `docker run -e NEXT_PUBLIC_...` values cannot change the compiled pages.
+
+```sh
+docker build --build-arg NEXT_PUBLIC_SITE_URL=https://your-domain.tld --build-arg NEXT_PUBLIC_CONTACT_EMAIL=hello@your-domain.tld --build-arg NEXT_PUBLIC_ALLOW_INDEXING=true -t dgs-website .
+```
+
+Alternatively, copy `.env.example` to `.env`, fill in your verified values, and use Docker Compose:
+
+```sh
+docker compose up -d --build
+docker compose ps
+docker compose logs -f website
+```
+
+Compose uses `.env` for its build arguments. Set `DGS_HOST_PORT=8080` there if port 3000 is already occupied. `.env.local` remains the local Next.js configuration file; Compose does not automatically read it. Keep indexing disabled until launch review is complete, and rebuild whenever public settings or images change.
+
+The served image directory is **`/app/out/media`**. Exported files are owned by `node:node`, directories have mode **0755**, and files have mode **0644**, so the non-root server can traverse directories and read every image. Compose also runs with a read-only filesystem; this site does not need an image upload directory or a writable image cache. Avoid mounting over that directory unless needed: a host mount replaces the image's ownership/permissions and must itself allow directory traversal and file reading.
+
+The optimized images in `public/media/` are bundled into the export. Original `assets/`, local dependencies, build output, QA files, Sites state and local environment files are excluded from the Docker build context. Run `npm run assets` before building if you change source photographs; keep originals in your workspace.
+
 ## Edit business information
 
 - `src/data/site.ts`: identity, description, contact details, socials, service/team/client confirmation flags, FAQs, process and navigation.
