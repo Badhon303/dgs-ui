@@ -26,7 +26,7 @@ body {
   background: var(--ivory);
   color: var(--ink);
   font-family: var(--font-sans), sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   -webkit-font-smoothing: antialiased;
 }
 button,
@@ -129,7 +129,7 @@ button:disabled {
 .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.16em;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   line-height: 1.7;
 }
@@ -139,7 +139,7 @@ button:disabled {
   gap: 22px;
   padding: 12px 0;
   border-bottom: 1px solid var(--ink);
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 600;
   width: max-content;
 }
@@ -163,7 +163,7 @@ button:disabled {
   background: var(--ink);
   color: white;
   border: 1px solid var(--ink);
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 500;
   transition:
     background 0.25s,
@@ -291,7 +291,7 @@ button:disabled {
 .nav-item button {
   background: none;
   border: 0;
-  font-size: 11px;
+  font-size: 16px;
   color: #525951;
   padding: 12px 0;
   position: relative;
@@ -320,14 +320,14 @@ button:disabled {
   border-radius: 40px;
   padding: 15px 22px;
   min-height: 48px;
-  font-size: 10px;
+  font-size: 16px;
   gap: 15px;
 }
 .search-trigger {
   padding: 5px 8px;
 }
 .search-trigger kbd {
-  font-size: 9px;
+  font-size: 12px;
   border: 1px solid #d3d4cb;
   padding: 3px 4px;
   border-radius: 3px;
@@ -435,7 +435,7 @@ button:disabled {
   display: flex;
   justify-content: space-between;
   gap: 20px;
-  font-size: 13px;
+  font-size: 16px;
   border-radius: 4px;
 }
 .command-dialog [role="option"].selected,
@@ -444,7 +444,7 @@ button:disabled {
 }
 .command-dialog small {
   color: var(--muted);
-  font-size: 10px;
+  font-size: 12px;
 }
 .mobile-sheet {
   margin: auto 0 0;
@@ -588,7 +588,7 @@ button:disabled {
   animation: text-in 0.8s 0.65s both;
 }
 .hero-bottom p {
-  font-size: 12px;
+  font-size: 16px;
   color: #f2f0e2d9;
   line-height: 1.9;
   margin-bottom: 22px;
@@ -602,7 +602,7 @@ button:disabled {
   display: flex;
   align-items: center;
   gap: 18px;
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0.08em;
   white-space: nowrap;
 }
@@ -620,7 +620,7 @@ button:disabled {
   right: 6vw;
   display: flex;
   justify-content: space-between;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 0.15em;
   color: #ffffffa0;
   z-index: 3;
@@ -658,7 +658,7 @@ button:disabled {
 }
 .intro-copy p {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   margin-bottom: 15px;
 }
 .intro-copy .text-link {
@@ -671,14 +671,14 @@ button:disabled {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   text-transform: uppercase;
-  font-size: 8px;
+  font-size: 16px;
   letter-spacing: 0.12em;
 }
 .intro-bottom span:before {
   content: "+";
   color: var(--bronze);
   margin-right: 12px;
-  font-size: 12px;
+  font-size: 16px;
 }
 .intro-bottom-last {
   margin-left: auto;
@@ -703,7 +703,7 @@ button:disabled {
 }
 .section-heading p:not(.eyebrow) {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
 }
 .section-heading .text-link {
   margin-top: 15px;
@@ -754,7 +754,7 @@ button:disabled {
 }
 .product-top .eyebrow {
   color: #555d50;
-  font-size: 8px;
+  font-size: 12px;
 }
 .card-arrow {
   border: 1px solid #babdb1;
@@ -800,7 +800,7 @@ button:disabled {
   line-height: 1.1;
 }
 .product-caption p {
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
   margin-top: 7px;
 }
@@ -823,7 +823,7 @@ button:disabled {
   min-height: 43px;
   border-radius: 30px;
   padding: 9px 19px;
-  font-size: 10px;
+  font-size: 12px;
   background: transparent;
   display: flex;
   align-items: center;
@@ -845,7 +845,7 @@ button:disabled {
 .gallery-count {
   margin-left: auto;
   color: var(--muted);
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0.12em;
 }
 .project-grid {
@@ -884,7 +884,7 @@ button:disabled {
   backdrop-filter: blur(10px);
   background: #f4f2ebeb;
   color: var(--ink);
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   padding: 8px 11px;
@@ -928,7 +928,7 @@ button:disabled {
   font-size: 25px;
 }
 .project-caption > span {
-  font-size: 8px;
+  font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--muted);
@@ -943,7 +943,7 @@ button:disabled {
   margin-top: 45px;
 }
 .gallery-bottom p {
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
 }
 /* A short cinematic passage */
@@ -964,7 +964,7 @@ button:disabled {
   border-bottom: 1px solid #ffffff26;
 }
 .story-heading > span {
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 0.13em;
   color: #a5afa3;
 }
@@ -1007,7 +1007,7 @@ button:disabled {
   opacity: 0;
 }
 .story-number {
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.15em;
   color: #c5b494;
   display: block;
@@ -1020,7 +1020,7 @@ button:disabled {
 }
 .story-chapter p {
   max-width: 320px;
-  font-size: 12px;
+  font-size: 16px;
   color: #bcc4b9;
   margin: 25px 0 20px;
 }
@@ -1040,7 +1040,7 @@ button:disabled {
   position: absolute;
   bottom: 25px;
   left: 25px;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 0.15em;
   color: white;
   background: #232b27a6;
@@ -1057,7 +1057,7 @@ button:disabled {
 }
 .details-copy > p:not(.eyebrow) {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   max-width: 390px;
   margin: 28px 0;
 }
@@ -1070,7 +1070,7 @@ button:disabled {
   gap: 22px;
   border-top: 1px solid var(--line);
   padding: 20px 0;
-  font-size: 9px;
+  font-size: 12px;
   color: var(--bronze);
 }
 .detail-list > span:last-child {
@@ -1079,7 +1079,7 @@ button:disabled {
 .detail-list b {
   font-weight: 500;
   color: var(--ink);
-  font-size: 11px;
+  font-size: 12px;
   flex: 1;
 }
 .statement-marquee {
@@ -1133,7 +1133,7 @@ button:disabled {
   margin-bottom: 15px;
 }
 .process-step p {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   max-width: 210px;
 }
@@ -1152,7 +1152,7 @@ button:disabled {
   color: var(--bronze);
 }
 .faq > div > p:not(.eyebrow) {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   margin-top: 25px;
 }
@@ -1169,7 +1169,7 @@ button:disabled {
   align-items: center;
   gap: 22px;
   padding: 24px 0;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.6;
 }
 .faq summary::-webkit-details-marker {
@@ -1185,10 +1185,10 @@ button:disabled {
 }
 .faq-number {
   color: var(--bronze);
-  font-size: 9px;
+  font-size: 12px;
 }
 .faq details > p {
-  font-size: 12px;
+  font-size: 16px;
   color: var(--muted);
   padding: 0 30px 24px 36px;
   animation: dialog-in 0.25s ease-out;
@@ -1230,7 +1230,7 @@ button:disabled {
   color: white;
 }
 .closing > p:last-child {
-  font-size: 11px;
+  font-size: 12px;
   color: #525b49;
   margin-top: 30px;
 }
@@ -1246,7 +1246,7 @@ button:disabled {
   gap: 40px;
 }
 .footer-top p {
-  font-size: 11px;
+  font-size: 12px;
   color: #b5beaf;
 }
 .footer-top > div {
@@ -1256,7 +1256,7 @@ button:disabled {
   align-items: flex-start;
 }
 .footer-top > div a {
-  font-size: 10px;
+  font-size: 12px;
   color: #d1d6cb;
 }
 .footer-top > div a:hover {
@@ -1281,7 +1281,7 @@ button:disabled {
   padding-top: 22px;
   display: flex;
   justify-content: space-between;
-  font-size: 8px;
+  font-size: 12px;
   color: #b0baa8;
   letter-spacing: 0.03em;
 }
@@ -1311,14 +1311,14 @@ button:disabled {
 }
 .page-heading > p:last-child {
   margin-top: 28px;
-  font-size: 12px;
+  font-size: 16px;
   color: var(--muted);
 }
 .products-collection {
   padding-bottom: 90px;
 }
 .editorial-note {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   max-width: 650px;
   margin-top: 35px;
@@ -1327,7 +1327,7 @@ button:disabled {
   display: flex;
   align-items: center;
   gap: 14px;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
   flex-wrap: wrap;
   margin-bottom: 45px;
@@ -1358,7 +1358,7 @@ button:disabled {
   min-height: 0;
 }
 .product-detail-image > .eyebrow {
-  font-size: 8px;
+  font-size: 12px;
   margin-top: 30px;
   color: var(--muted);
 }
@@ -1380,7 +1380,7 @@ button:disabled {
 }
 .product-detail-copy > p:not(.eyebrow):not(.lead) {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.9;
   margin: 20px 0 30px;
 }
@@ -1391,7 +1391,7 @@ button:disabled {
 }
 .spec-list h2 {
   font-family: var(--font-sans);
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 0;
   margin-bottom: 15px;
 }
@@ -1399,11 +1399,11 @@ button:disabled {
   padding-left: 18px;
   margin: 0 0 25px;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.9;
 }
 .spec-list > p {
-  font-size: 9px;
+  font-size: 12px;
   color: var(--muted);
 }
 .related {
@@ -1428,7 +1428,7 @@ button:disabled {
   border-top: 1px solid var(--line);
 }
 .crawlable-index summary {
-  font-size: 11px;
+  font-size: 12px;
   cursor: pointer;
 }
 .crawlable-index > div {
@@ -1438,7 +1438,7 @@ button:disabled {
   margin-top: 25px;
 }
 .crawlable-index a {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.5;
   color: var(--muted);
 }
@@ -1462,7 +1462,7 @@ button:disabled {
   margin-bottom: 20px;
 }
 .project-title-row > p {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
 }
 .story-photo {
@@ -1480,7 +1480,7 @@ button:disabled {
   position: absolute;
   bottom: 25px;
   right: 25px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .project-context {
   display: grid;
@@ -1492,12 +1492,12 @@ button:disabled {
   font-size: 55px;
 }
 .project-context p {
-  font-size: 12px;
+  font-size: 16px;
   color: var(--muted);
   margin-top: 20px;
 }
 .project-context dl {
-  font-size: 11px;
+  font-size: 12px;
   margin: 0;
 }
 .project-context dl > div {
@@ -1561,11 +1561,11 @@ button:disabled {
   padding-top: 18px;
 }
 .lightbox-bar p {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.6;
 }
 .lightbox-bar p span {
-  font-size: 9px;
+  font-size: 12px;
   color: #b7bfaf;
   display: block;
   margin-top: 5px;
@@ -1604,7 +1604,7 @@ button:disabled {
 }
 .about-content p {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 .about-values {
@@ -1626,7 +1626,7 @@ button:disabled {
 }
 .values-grid span {
   color: var(--bronze);
-  font-size: 10px;
+  font-size: 12px;
 }
 .values-grid h3 {
   font-family: var(--font-display);
@@ -1635,7 +1635,7 @@ button:disabled {
 }
 .values-grid p {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
 }
 .contact-layout {
   padding-top: 170px;
@@ -1655,7 +1655,7 @@ button:disabled {
 }
 .contact-intro > p:not(.eyebrow) {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   max-width: 310px;
   margin: 30px 0;
 }
@@ -1667,7 +1667,7 @@ button:disabled {
   align-items: center;
   gap: 13px;
   margin-top: 15px;
-  font-size: 12px;
+  font-size: 16px;
 }
 .contact-visual {
   height: 260px;
@@ -1703,10 +1703,10 @@ button:disabled {
   height: 25px;
   border: 1px solid #bfc4b3;
   border-radius: 50%;
-  font-size: 9px;
+  font-size: 12px;
 }
 .form-stepper small {
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 0.04em;
 }
 .form-stepper .current {
@@ -1733,7 +1733,7 @@ button:disabled {
 }
 .form-body > p:not(.eyebrow):not(.field-error) {
   color: var(--muted);
-  font-size: 11px;
+  font-size: 12px;
   margin-top: 15px;
 }
 .interest-options {
@@ -1752,7 +1752,7 @@ button:disabled {
   padding: 17px 13px;
   border: 1px solid #cbd0bd;
   min-height: 58px;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.4;
 }
 .interest-options input {
@@ -1775,13 +1775,13 @@ button:disabled {
 .field {
   position: relative;
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
 }
 .field .optional,
 .field .required {
   float: right;
-  font-size: 8px;
+  font-size: 12px;
   color: var(--muted);
   font-weight: 400;
 }
@@ -1794,7 +1794,7 @@ button:disabled {
   border: 1px solid #cbd0bd;
   background: #f4f2eb9c;
   color: var(--ink);
-  font-size: 11px;
+  font-size: 12px;
   border-radius: 0;
   resize: vertical;
   font-weight: 400;
@@ -1810,7 +1810,7 @@ button:disabled {
 .field-error {
   display: block;
   color: #a04a35;
-  font-size: 10px;
+  font-size: 12px;
   margin-top: 7px;
   line-height: 1.5;
 }
@@ -1823,7 +1823,7 @@ button:disabled {
   gap: 20px;
 }
 .form-note {
-  font-size: 8px;
+  font-size: 12px;
   color: var(--muted);
   max-width: 150px;
   line-height: 1.6;
@@ -1835,7 +1835,7 @@ button:disabled {
 }
 .inquiry-review {
   margin: 25px 0;
-  font-size: 11px;
+  font-size: 12px;
 }
 .inquiry-review > div {
   display: grid;
@@ -1865,11 +1865,11 @@ button:disabled {
   flex-shrink: 0;
 }
 .contact-notice p {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.7;
 }
 .download-status {
-  font-size: 11px !important;
+  font-size: 12px !important;
   color: #3e5c35 !important;
 }
 .not-found {
@@ -1979,7 +1979,7 @@ button:disabled {
     gap: 20px;
   }
   .form-stepper small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .contact-layout {
     gap: 5%;
@@ -2033,7 +2033,7 @@ button:disabled {
     margin-bottom: 20px;
   }
   .story-chapter p {
-    font-size: 11px;
+    font-size: 12px;
     max-width: none;
   }
   .story-frame {
@@ -2179,7 +2179,7 @@ button:disabled {
   }
   .form-stepper small {
     display: inline;
-    font-size: 9px;
+    font-size: 12px;
   }
   .related-products {
     grid-template-columns: repeat(2, 1fr);
@@ -2237,7 +2237,7 @@ button:disabled {
     padding: 8px 8px 8px 20px;
   }
   .nav-cta {
-    font-size: 8px;
+    font-size: 12px;
     gap: 7px;
     padding: 12px 13px;
     min-height: 40px;
@@ -2286,7 +2286,7 @@ button:disabled {
     justify-content: space-between;
   }
   .hero-intro {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 0.13em;
   }
   .hero h1 {
@@ -2298,7 +2298,7 @@ button:disabled {
     display: block;
   }
   .hero-bottom p {
-    font-size: 11px;
+    font-size: 12px;
     max-width: 240px;
     margin-bottom: 25px;
   }
@@ -2308,11 +2308,11 @@ button:disabled {
   }
   .hero-links .button {
     padding: 14px 17px;
-    font-size: 10px;
+    font-size: 12px;
     gap: 15px;
   }
   .hero-links .text-link {
-    font-size: 10px;
+    font-size: 12px;
     gap: 8px;
   }
   .hero-scroll {
@@ -2322,7 +2322,7 @@ button:disabled {
     bottom: 35px;
     left: 6vw;
     right: 6vw;
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.1em;
     gap: 25px;
   }
@@ -2351,7 +2351,7 @@ button:disabled {
     font-size: 44px;
   }
   .intro-copy p {
-    font-size: 12px;
+    font-size: 16px;
     max-width: 380px;
   }
   .intro-copy .text-link {
@@ -2360,13 +2360,13 @@ button:disabled {
   .intro-bottom {
     gap: 0;
     justify-content: space-between;
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.07em;
     padding: 17px 0;
   }
   .intro-bottom span:before {
     margin-right: 5px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .systems {
     padding-top: 55px;
@@ -2387,7 +2387,7 @@ button:disabled {
     margin-top: 25px;
   }
   .section-heading p:not(.eyebrow) {
-    font-size: 11px;
+    font-size: 12px;
   }
   .product-bento {
     gap: 12px;
@@ -2414,13 +2414,13 @@ button:disabled {
     max-width: 300px;
   }
   .product-top .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
   }
   .product-caption h3 {
     font-size: 30px;
   }
   .product-caption p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .bento-2,
   .bento-3 {
@@ -2438,7 +2438,7 @@ button:disabled {
   }
   .bento-2 .product-top .eyebrow,
   .bento-3 .product-top .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .bento-2 .card-arrow,
@@ -2462,7 +2462,7 @@ button:disabled {
   }
   .bento-2 .product-caption p,
   .bento-3 .product-caption p {
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.7;
   }
   .bento-4 {
@@ -2479,7 +2479,7 @@ button:disabled {
     margin: 0;
   }
   .bento-4 .product-top .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
   }
   .bento-4 .product-top .card-arrow {
     display: none;
@@ -2488,7 +2488,7 @@ button:disabled {
     font-size: 28px;
   }
   .bento-4 .product-caption p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .work {
     padding-top: 55px;
@@ -2500,7 +2500,7 @@ button:disabled {
     margin: 25px 0 8px;
   }
   .gallery-filters button {
-    font-size: 8px;
+    font-size: 12px;
     padding: 8px 12px;
     min-height: 39px;
     gap: 6px;
@@ -2525,7 +2525,7 @@ button:disabled {
     font-size: 27px;
   }
   .project-caption > span {
-    font-size: 8px;
+    font-size: 12px;
   }
   .project-open {
     opacity: 1;
@@ -2537,16 +2537,16 @@ button:disabled {
     margin-top: 30px;
   }
   .gallery-bottom .button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .gallery-bottom .text-link {
-    font-size: 10px;
+    font-size: 12px;
   }
   .story {
     padding: 30px 6vw 50px;
   }
   .story-heading .eyebrow {
-    font-size: 9px;
+    font-size: 12px;
   }
   .story-images {
     height: 400px;
@@ -2572,11 +2572,11 @@ button:disabled {
   }
   .story-chapter p {
     max-width: 320px;
-    font-size: 12px;
+    font-size: 16px;
     margin: 20px 0;
   }
   .story-chapter .text-link {
-    font-size: 10px;
+    font-size: 12px;
   }
   .details-section {
     grid-template-columns: 1fr;
@@ -2594,7 +2594,7 @@ button:disabled {
     margin-bottom: 20px;
   }
   .details-copy > p:not(.eyebrow) {
-    font-size: 12px;
+    font-size: 16px;
     margin-top: 22px;
   }
   .statement-marquee {
@@ -2626,7 +2626,7 @@ button:disabled {
     line-height: 1.1;
   }
   .process-step p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .faq {
     grid-template-columns: 1fr;
@@ -2638,12 +2638,12 @@ button:disabled {
     font-size: 50px;
   }
   .faq summary {
-    font-size: 11px;
+    font-size: 12px;
     gap: 15px;
     padding: 22px 0;
   }
   .faq details > p {
-    font-size: 11px;
+    font-size: 12px;
     padding-left: 27px;
     padding-right: 15px;
   }
@@ -2652,7 +2652,7 @@ button:disabled {
     padding-bottom: 50px;
   }
   .closing .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
     margin-bottom: 30px;
   }
   .closing h2 {
@@ -2669,7 +2669,7 @@ button:disabled {
     width: 24px;
   }
   .closing > p:last-child {
-    font-size: 10px;
+    font-size: 12px;
     max-width: 240px;
     margin-top: 25px;
   }
@@ -2687,13 +2687,13 @@ button:disabled {
   .footer-top > p {
     grid-column: 2;
     line-height: 1.7;
-    font-size: 9px;
+    font-size: 12px;
   }
   .footer-top > div:last-child {
     grid-column: 2;
   }
   .footer-top > div a {
-    font-size: 10px;
+    font-size: 12px;
   }
   .footer-word {
     font-size: 10.2vw;
@@ -2701,7 +2701,7 @@ button:disabled {
     letter-spacing: -0.05em;
   }
   .footer-bottom {
-    font-size: 7px;
+    font-size: 12px;
     gap: 20px;
     line-height: 1.6;
   }
@@ -2716,18 +2716,18 @@ button:disabled {
     font-size: 67px;
   }
   .page-heading > .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
     margin-bottom: 23px;
   }
   .page-heading > p:last-child {
-    font-size: 11px;
+    font-size: 12px;
     margin-top: 25px;
   }
   .products-collection {
     padding-bottom: 55px;
   }
   .editorial-note {
-    font-size: 10px;
+    font-size: 12px;
   }
   .product-detail {
     padding-top: 130px;
@@ -2735,7 +2735,7 @@ button:disabled {
   }
   .breadcrumbs {
     gap: 10px;
-    font-size: 8px;
+    font-size: 12px;
     margin-bottom: 30px;
   }
   .product-detail-image {
@@ -2743,7 +2743,7 @@ button:disabled {
     padding: 30px;
   }
   .product-detail-image > .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
   }
   .product-detail-copy {
     padding-top: 30px;
@@ -2772,7 +2772,7 @@ button:disabled {
     padding: 16px;
   }
   .related-products .product-top .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
   }
   .related-products .card-arrow {
     display: none;
@@ -2785,7 +2785,7 @@ button:disabled {
     font-size: 26px;
   }
   .related-products .product-caption p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .portfolio-page {
     padding-bottom: 55px;
@@ -2805,11 +2805,11 @@ button:disabled {
     font-size: 65px;
   }
   .project-title-row > .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
   }
   .project-title-row > p {
     margin-top: 25px;
-    font-size: 10px;
+    font-size: 12px;
   }
   .story-photo {
     height: 60vh;
@@ -2820,7 +2820,7 @@ button:disabled {
     right: 17px;
     padding: 12px 16px;
     min-height: 42px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .project-context {
     grid-template-columns: 1fr;
@@ -2831,10 +2831,10 @@ button:disabled {
     font-size: 46px;
   }
   .project-context p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .project-context dl {
-    font-size: 10px;
+    font-size: 12px;
   }
   .related-projects {
     grid-template-columns: 1fr;
@@ -2861,7 +2861,7 @@ button:disabled {
     gap: 15px;
   }
   .lightbox-bar p {
-    font-size: 10px;
+    font-size: 12px;
     max-width: 230px;
   }
   .lightbox-bar .icon-button {
@@ -2881,7 +2881,7 @@ button:disabled {
     font-size: 52px;
   }
   .about-content p {
-    font-size: 12px;
+    font-size: 16px;
   }
   .about-values {
     padding-top: 45px;
@@ -2896,7 +2896,7 @@ button:disabled {
     margin-top: 20px;
   }
   .values-grid p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .contact-layout {
     padding-top: 145px;
@@ -2907,14 +2907,14 @@ button:disabled {
     margin-bottom: 20px;
   }
   .contact-intro > .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
   }
   .contact-intro h1 {
     font-size: 77px;
   }
   .contact-intro > p:not(.eyebrow) {
     max-width: 310px;
-    font-size: 11px;
+    font-size: 12px;
     margin: 23px 0;
   }
   .contact-details {
@@ -2932,7 +2932,7 @@ button:disabled {
     gap: 6px;
   }
   .form-stepper small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .form-body {
     padding-top: 28px;
@@ -2942,13 +2942,13 @@ button:disabled {
     font-size: 40px;
   }
   .form-body > .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
   }
   .interest-options {
     gap: 8px;
   }
   .interest-options label {
-    font-size: 10px;
+    font-size: 12px;
     padding: 15px 9px;
     min-height: 60px;
     gap: 7px;
@@ -2962,16 +2962,16 @@ button:disabled {
   }
   .form-bottom .button {
     padding: 14px 17px;
-    font-size: 10px;
+    font-size: 12px;
     gap: 13px;
   }
   .form-note {
-    font-size: 7px;
+    font-size: 12px;
     max-width: 125px;
   }
   .inquiry-review > div {
     grid-template-columns: 75px 1fr;
-    font-size: 10px;
+    font-size: 12px;
   }
   .dialog-inner {
     padding: 35px 22px;
@@ -2980,7 +2980,7 @@ button:disabled {
     font-size: 22px;
   }
   .command-dialog [role="option"] {
-    font-size: 12px;
+    font-size: 16px;
   }
   .mega-menu {
     display: none;
@@ -3107,7 +3107,7 @@ button:disabled {
   align-items: center;
   gap: 8px;
   padding: 10px;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--ink);
   background: #f4f2ebc9;
 }
@@ -3139,28 +3139,28 @@ button:disabled {
   }
   .form-fields input,
   .form-fields textarea {
-    font-size: 14px;
+    font-size: 16px;
   }
   .hero-links {
     gap: 17px;
   }
   .eyebrow {
-    font-size: 10px;
+    font-size: 12px;
   }
   .product-top .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
   }
   .form-body > .eyebrow {
-    font-size: 10px;
+    font-size: 12px;
   }
   .intro-bottom {
-    font-size: 8px;
+    font-size: 12px;
   }
   .intro-bottom span:last-child {
     display: none;
   }
   .hero-intro {
-    font-size: 8px;
+    font-size: 12px;
     letter-spacing: 0.1em;
   }
 }
