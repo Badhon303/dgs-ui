@@ -38,6 +38,17 @@ RUN find /app/out -type d -exec chmod 0755 {} + \
     && test -d /app/out/media
 
 USER node
+# Fail the build if this user cannot traverse directories or read any asset.
+RUN node -e "const fs = require('node:fs'); \
+    function verify(p) { \
+      const isDir = fs.statSync(p).isDirectory(); \
+      fs.accessSync(p, fs.constants.R_OK | (isDir ? fs.constants.X_OK : 0)); \
+      if (isDir) for (const name of fs.readdirSync(p)) verify(p + '/' + name); \
+    } \
+    if (process.getuid() === 0) throw new Error('Runtime must be non-root'); \
+    verify('/app/out'); \
+    verify('/app/scripts/serve.mjs');"
+
 EXPOSE 3000
 HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
     CMD ["node", "-e", "fetch('http://127.0.0.1:'+(process.env.PORT||3000)+'/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
