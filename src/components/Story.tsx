@@ -1,10 +1,139 @@
-'use client';
-import {useEffect,useRef} from 'react';
-import Link from 'next/link';
-import {ArrowUpRight} from 'lucide-react';
-import {Media} from './Media';
-const chapters=[{number:'01',title:'Designed around light.',text:'Every opening changes the way a room feels. Consider the view, the daylight, and the moments you want to invite inside.',image:'projects-01'}, {number:'02',title:'Considered in every detail.',text:'A frame is more than an edge. Proportions, opening arrangements and the meeting of materials give a space its character.',image:'projects-03'}, {number:'03',title:'Made for the way you live.',text:'From the first idea to the practical details, the conversation begins with your space and the way you want to use it.',image:'projects-05'}];
-export function Story(){const ref=useRef<HTMLElement>(null);
-  useEffect(()=>{let cleanup:(()=>void)|undefined;let alive=true;async function init(){const [{gsap},{ScrollTrigger}]=await Promise.all([import('gsap'),import('gsap/ScrollTrigger')]);if(!alive||!ref.current)return;gsap.registerPlugin(ScrollTrigger);const mm=gsap.matchMedia();mm.add('(min-width: 1024px) and (prefers-reduced-motion: no-preference)',()=>{const root=ref.current;if(!root)return;const panels=root.querySelectorAll('.story-chapter');const images=root.querySelectorAll('.story-image');const frame=root.querySelector('.story-frame');gsap.set([panels[1],panels[2],images[1],images[2]],{opacity:0});const tl=gsap.timeline({scrollTrigger:{trigger:root,start:'top top',end:'+=130%',pin:true,scrub:1}});for(let i=1;i<3;i++){tl.to(panels[i-1],{opacity:0,y:-30,duration:.4}).to(images[i-1],{opacity:0,duration:.5},'<').fromTo(images[i],{opacity:0,scale:1.06},{opacity:1,scale:1,duration:.6},'<').fromTo(panels[i],{opacity:0,y:35},{opacity:1,y:0,duration:.5},'<.15').to(frame,{x:i===1?24:0,duration:.6},'<').to({},{duration:.3});}return()=>{};});cleanup=()=>mm.revert();}void init();return()=>{alive=false;cleanup?.();};},[]);
-  return <section className="story" ref={ref}><div className="story-heading"><p className="eyebrow">A different perspective</p><span>LIGHT / DETAIL / EVERYDAY LIFE</span></div><div className="story-layout"><div className="story-images">{chapters.map((c,i)=><div className={`story-image story-image-${i}`} key={c.number}><Media id={c.image} alt="Window and glass installation detail" sizes="(max-width:1023px) 100vw, 55vw"/></div>)}<div className="story-frame" aria-hidden="true"/></div><div className="story-copy">{chapters.map(c=><div className="story-chapter" key={c.number}><span className="story-number">/ {c.number}</span><h2>{c.title}</h2><p>{c.text}</p><Link className="text-link light" href="/about/">Our approach<ArrowUpRight size={18}/></Link></div>)}</div></div></section>;
+﻿"use client";
+import { useEffect, useRef } from "react";
+import Link from "@/components/Link";
+import { ArrowUpRight } from "lucide-react";
+import { Media } from "./Media";
+const chapters = [
+  {
+    number: "01",
+    title: "Designed around light.",
+    text: "Every opening changes the way a room feels. Consider the view, the daylight, and the moments you want to invite inside.",
+    image: "projects-59",
+  },
+  {
+    number: "02",
+    title: "Considered in every detail.",
+    text: "A frame is more than an edge. Proportions, opening arrangements and the meeting of materials give a space its character.",
+    image: "projects-05",
+  },
+  {
+    number: "03",
+    title: "Made for the way you live.",
+    text: "From the first idea to the practical details, the conversation begins with your space and the way you want to use it.",
+    image: "projects-19",
+  },
+];
+export function Story() {
+  const ref = useRef<HTMLElement>(null);
+  useEffect(() => {
+    let cleanup: (() => void) | undefined;
+    let alive = true;
+    async function init() {
+      const [{ gsap }, { ScrollTrigger }] = await Promise.all([
+        import("gsap"),
+        import("gsap/ScrollTrigger"),
+      ]);
+      if (!alive || !ref.current) return;
+      gsap.registerPlugin(ScrollTrigger);
+      const mm = gsap.matchMedia();
+      mm.add(
+        "(min-width: 1024px) and (prefers-reduced-motion: no-preference)",
+        () => {
+          const root = ref.current;
+          if (!root) return;
+          const panels = root.querySelectorAll(".story-chapter");
+          const images = root.querySelectorAll(".story-image");
+          const frame = root.querySelector(".story-frame");
+          gsap.set([panels[1], panels[2], images[1], images[2]], {
+            opacity: 0,
+          });
+          const tl = gsap.timeline({
+            scrollTrigger: {
+              trigger: root,
+              start: "top top",
+              end: "+=130%",
+              pin: true,
+              scrub: 1,
+            },
+          });
+          for (let i = 1; i < 3; i++) {
+            tl.to(panels[i - 1], { opacity: 0, y: -30, duration: 0.4 })
+              .to(images[i - 1], { opacity: 0, duration: 0.5 }, "<")
+              .fromTo(
+                images[i],
+                { opacity: 0, scale: 1.06 },
+                { opacity: 1, scale: 1, duration: 0.6 },
+                "<",
+              )
+              .fromTo(
+                panels[i],
+                { opacity: 0, y: 35 },
+                { opacity: 1, y: 0, duration: 0.5 },
+                "<.15",
+              )
+              .to(frame, { x: i === 1 ? 24 : 0, duration: 0.6 }, "<")
+              .to({}, { duration: 0.3 });
+          }
+          return () => {};
+        },
+      );
+      cleanup = () => mm.revert();
+    }
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          observer.disconnect();
+          if (
+            matchMedia(
+              "(min-width: 1024px) and (prefers-reduced-motion: no-preference)",
+            ).matches
+          )
+            void init();
+        }
+      },
+      { rootMargin: "500px" },
+    );
+    if (ref.current) observer.observe(ref.current);
+    return () => {
+      alive = false;
+      observer.disconnect();
+      cleanup?.();
+    };
+  }, []);
+  return (
+    <section className="story" ref={ref}>
+      <div className="story-heading">
+        <p className="eyebrow">A different perspective</p>
+        <span>LIGHT / DETAIL / EVERYDAY LIFE</span>
+      </div>
+      <div className="story-layout">
+        <div className="story-images">
+          {chapters.map((c, i) => (
+            <div className={`story-image story-image-${i}`} key={c.number}>
+              <Media
+                id={c.image}
+                alt="Window and glass installation detail"
+                sizes="(max-width:1023px) 100vw, 55vw"
+              />
+            </div>
+          ))}
+          <div className="story-frame" aria-hidden="true" />
+        </div>
+        <div className="story-copy">
+          {chapters.map((c) => (
+            <div className="story-chapter" key={c.number}>
+              <span className="story-number">/ {c.number}</span>
+              <h2>{c.title}</h2>
+              <p>{c.text}</p>
+              <Link className="text-link light" href="/about/">
+                Our approach
+                <ArrowUpRight size={18} />
+              </Link>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
 }
+

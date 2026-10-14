@@ -1,0 +1,3774 @@
+[
+  {
+    "id": "products-01",
+    "sourcePath": "assets/products/Clad_windows.png",
+    "optimizedPath": "/media/products-clad-windows-295.webp",
+    "width": 295,
+    "height": 502,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 295,
+        "path": "/media/products-clad-windows-295.webp"
+      }
+    ],
+    "alt": "Clad windows frame cross-section illustration",
+    "category": "products",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoQABsALtGIxGIkLCwsDADQS0gABSWba9XaMtAxNTPdgAD+88ioHiPAE/VHrnNijrbwavrWsS/0gueXhr/S0h8B1b7JxbEugJWYy5k0CGz1OZej8kXT+AAA",
+    "sha256": "acdf22d2788fc4a3e3ef7e02476341edd18f4568681d2d70ec5c239430b38b3e",
+    "duplicateOf": null,
+    "perceptualHash": "1111100011100100011011000110110001101000001111001110100011100001",
+    "meanLuminance": 210.16909311904922,
+    "review": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "nearDuplicates": [],
+    "visualCategory": "products",
+    "placement": "System collection",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Bright scene; inspect highlight detail",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "products-02",
+    "sourcePath": "assets/products/gable_windows.png",
+    "optimizedPath": "/media/products-gable-windows-386.webp",
+    "width": 386,
+    "height": 422,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/products-gable-windows-360.webp"
+      },
+      {
+        "width": 386,
+        "path": "/media/products-gable-windows-386.webp"
+      }
+    ],
+    "alt": "Gable windows frame cross-section illustration",
+    "category": "products",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoQABEAPxFysFAsJqSisAgBgCIJYwC/OCFr+oVfmgpyAAD+5+v8xt5IuSbIGAlZSCF/yhyUtw6GiYAfwnYHatC1gAA=",
+    "sha256": "4660fcf775bf4216b41d857e196fa268af66ca229d8ca8ca4ba0f8236d731c16",
+    "duplicateOf": null,
+    "perceptualHash": "0100011011100110111001101110011011100110101001101100011010011001",
+    "meanLuminance": 201.80739385605187,
+    "review": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "nearDuplicates": [],
+    "visualCategory": "products",
+    "placement": "System collection",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "products-03",
+    "sourcePath": "assets/products/louvered_windows.png",
+    "optimizedPath": "/media/products-louvered-windows-317.webp",
+    "width": 317,
+    "height": 502,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 317,
+        "path": "/media/products-louvered-windows-317.webp"
+      }
+    ],
+    "alt": "Louvered windows frame cross-section illustration",
+    "category": "products",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAwCdASoQABkAPxF6tFAsKCUisAgBgCIJZwABFGMF0p/8Q7wD2wAA/vx+POzwoQ55viMQV000HSNfImwX/L8rSIJSbSDTYk4AAA==",
+    "sha256": "a41678c2095bb9a577c9c4660bb517aa691c746106e5ffbe17348ca47f919fb9",
+    "duplicateOf": null,
+    "perceptualHash": "0011110001111100011111000111110000111100011011000110000001100000",
+    "meanLuminance": 223.84673922606106,
+    "review": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "nearDuplicates": [],
+    "visualCategory": "products",
+    "placement": "System collection",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Bright scene; inspect highlight detail",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "products-04",
+    "sourcePath": "assets/products/sash_windows.png",
+    "optimizedPath": "/media/products-sash-windows-380.webp",
+    "width": 380,
+    "height": 427,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/products-sash-windows-360.webp"
+      },
+      {
+        "width": 380,
+        "path": "/media/products-sash-windows-380.webp"
+      }
+    ],
+    "alt": "Sash windows frame cross-section illustration",
+    "category": "products",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoQABIAPxFysFAsJqSisAgBgCIJQBjehDwBi4OkPaUOOJ1AAP7tWrNZCBpILiKLPs45bsYCRI46IINjmPdbmH3hwG0qUdlFkZqmisAA",
+    "sha256": "f0e1086b73b69e2d29544a7588985f6ffd408dc2fc440c1f26a552b548834320",
+    "duplicateOf": null,
+    "perceptualHash": "0100110010110000101100100001101011101100110000011100001011000100",
+    "meanLuminance": 212.7604277086158,
+    "review": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "nearDuplicates": [],
+    "visualCategory": "products",
+    "placement": "System collection",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Bright scene; inspect highlight detail",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "products-05",
+    "sourcePath": "assets/products/sliding_profile.png",
+    "optimizedPath": "/media/products-sliding-profile-322.webp",
+    "width": 322,
+    "height": 442,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 322,
+        "path": "/media/products-sliding-profile-322.webp"
+      }
+    ],
+    "alt": "Sliding profiles frame cross-section illustration",
+    "category": "products",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoQABYAPxF8tFGsKCUisAgBgCIJZQAASoingqbTeMqlSwAA/u1hd4xywBL1Y/QyVnK8wsjvJ4g6ujAylg6O4Zhc6z4aCQwAAAA=",
+    "sha256": "cd098009b31de410a95883f2671377bfd0f8745b51354d1a437303d86b29fb97",
+    "duplicateOf": null,
+    "perceptualHash": "0011100001111010011110100111101011001010111001101110001011100000",
+    "meanLuminance": 205.09474157556,
+    "review": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "nearDuplicates": [],
+    "visualCategory": "products",
+    "placement": "System collection",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "projects-01",
+    "sourcePath": "assets/projects/1.jpg",
+    "optimizedPath": "/media/projects-01-840.webp",
+    "width": 840,
+    "height": 1120,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-01-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-01-720.webp"
+      },
+      {
+        "width": 840,
+        "path": "/media/projects-01-840.webp"
+      }
+    ],
+    "alt": "A tall pale building with blue glazing and stacked balconies under a blue sky",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQBACdASoQABUAPxFysFAsJqSisAgBgCIJYgCdOUAA4q6cgMa+wyHTAAD8zVUnYtfJHS0Eg8ECB8xWIvXppoFxYsj48d1NJsCuZu6bU0jbIsxd+AAAAA==",
+    "sha256": "ac47cb18158f3087850761cac93a606ea41ce2b67c63fa7fde783262c7010154",
+    "duplicateOf": null,
+    "perceptualHash": "0001100100110000001100000011001001110010011110010111000111011001",
+    "meanLuminance": 134.34400297619047,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": ["projects-58"],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-02",
+    "sourcePath": "assets/projects/2.jpg",
+    "optimizedPath": "/media/projects-02-1120.webp",
+    "width": 1120,
+    "height": 891,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-02-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-02-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/projects-02-1120.webp"
+      }
+    ],
+    "alt": "Black-framed corner glazing beside a patterned privacy screen",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAA0ABABoJQBdgA7rfoAA/rQM9DcoZxk6Bfr2xy7zq8oK53S6tIlMj27PnUgA",
+    "sha256": "6ab34c10572c9a3b20448692d2514a2041a0a012d18dfff67f58fa1db2043f23",
+    "duplicateOf": null,
+    "perceptualHash": "0110010011100110100001010010011100100101100001011100010011100100",
+    "meanLuminance": 166.9017997434664,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": ["projects-66"],
+    "visualCategory": "Windows & doors",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-03",
+    "sourcePath": "assets/projects/3.jpg",
+    "optimizedPath": "/media/projects-03-537.webp",
+    "width": 537,
+    "height": 716,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-03-360.webp"
+      },
+      {
+        "width": 537,
+        "path": "/media/projects-03-537.webp"
+      }
+    ],
+    "alt": "Pale building façade with repeated windows and a vertical red accent",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoQABUAPxF0sFAsJySisAgBgCIJZQC2yCBbBEK3HYClr8AA/OJO1aZqrgsbHk0qKPplz8CU+o+LHrK2qbTN4o7ZDorkZN0ifpyko4UAQtM+aqw4YAA=",
+    "sha256": "e40b9e2b0f848ce0a89d39cb7afe88aecebed4b117f4d73bff5ca886497f310a",
+    "duplicateOf": null,
+    "perceptualHash": "1111000011001100110111011101110111011101100110011001010110110101",
+    "meanLuminance": 124.88979484618666,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-04",
+    "sourcePath": "assets/projects/4.jpg",
+    "optimizedPath": "/media/projects-04-840.webp",
+    "width": 840,
+    "height": 1120,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-04-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-04-720.webp"
+      },
+      {
+        "width": 840,
+        "path": "/media/projects-04-840.webp"
+      }
+    ],
+    "alt": "Clear glass shower enclosure in a warm stone-lined bathroom",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoQABUAPxFwsFAsJiSisAgBgCIJYgCdMoAC9fsYNsyDAAD9+O4lHQIUg2/jCs3nZb1WVEjUgsHmuNp2DOGAnXwDAwyXcmIdoAA=",
+    "sha256": "2e68e63bc98a3fe819f8117a344c2d63a8aef05c5a22f583255ab9dfbe1602b3",
+    "duplicateOf": null,
+    "perceptualHash": "0110010100111001001010000110011000111010001111000011110100111111",
+    "meanLuminance": 157.16827168367348,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-05",
+    "sourcePath": "assets/projects/5.jpg",
+    "optimizedPath": "/media/projects-05-1120.webp",
+    "width": 1120,
+    "height": 781,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-05-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-05-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/projects-05-1120.webp"
+      }
+    ],
+    "alt": "Black grid-framed glass partition and doors in a bright unfurnished room",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABABoJZQCdAEMVGkPeAD97TMw5+ecqYONOX0jKORgAfhKx6HgAAA=",
+    "sha256": "7e6964f6c97ed2fdb4cfeecfb7d7f95822664d3e9ff3cd1a92e383c62ca246a8",
+    "duplicateOf": null,
+    "perceptualHash": "0010111110011001101010011010100110101001101000011001100101111011",
+    "meanLuminance": 156.40628201024327,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-06",
+    "sourcePath": "assets/projects/6.jpg",
+    "optimizedPath": "/media/projects-06-716.webp",
+    "width": 716,
+    "height": 537,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-06-360.webp"
+      },
+      {
+        "width": 716,
+        "path": "/media/projects-06-716.webp"
+      }
+    ],
+    "alt": "Wide frosted glass panels with dark frames in a lit interior",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAwABABoJYwC7ADGNqFQAAD+ATMdMHj8CSnfNyMoWXFHS9mwBQhqwF76fwAXZYmAAA==",
+    "sha256": "e59a03b4566da05ee7e84f9ef7715c7534ab4ff0702790aaa1063f6532826a80",
+    "duplicateOf": null,
+    "perceptualHash": "1101001111000111000010111000101110001111100011111000111100001101",
+    "meanLuminance": 135.81822508660778,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-07",
+    "sourcePath": "assets/projects/7.jpg",
+    "optimizedPath": "/media/projects-07-716.webp",
+    "width": 716,
+    "height": 537,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-07-360.webp"
+      },
+      {
+        "width": 716,
+        "path": "/media/projects-07-716.webp"
+      }
+    ],
+    "alt": "Large glazed doors opening onto a balcony with a metal railing",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAwABABoJQBOgB7HMHMTYRAAAPha4NrNfow07jttP+JcuN4pQHFNgWBDMA9E6mhiwAAA",
+    "sha256": "492086440824f226d90f568c4a24320dcd5e19979b132271f04f1c3a3b414091",
+    "duplicateOf": null,
+    "perceptualHash": "1100011110011111101110010010110000101111000101010001011101001101",
+    "meanLuminance": 130.67678911394776,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-08",
+    "sourcePath": "assets/projects/8.jpg",
+    "optimizedPath": "/media/projects-08-1120.webp",
+    "width": 1120,
+    "height": 826,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-08-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-08-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/projects-08-1120.webp"
+      }
+    ],
+    "alt": "White exterior façade with small windows and climbing greenery",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAwABABoJQAASwQNJf+6gAD8+s5uxA+VX5NKUHZViMvohv9Ahtoo2bz2YAAAAAA=",
+    "sha256": "cf6ff363261cf85b42ce586fc2d3dace9cd5bfe2171c660db190a6804b1dc170",
+    "duplicateOf": null,
+    "perceptualHash": "0101100100011101001011010000110100011001000011010000110100000001",
+    "meanLuminance": 165.98514030612245,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-09",
+    "sourcePath": "assets/projects/9.jpg",
+    "optimizedPath": "/media/projects-09-1120.webp",
+    "width": 1120,
+    "height": 840,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-09-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-09-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/projects-09-1120.webp"
+      }
+    ],
+    "alt": "View upward at a pale building with broad horizontal windows and balconies",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAwABABoJZQC7AEfMH2EgAD+yRr3B98KT5CPoqY8542IdOiwNKTNXy43aMAA",
+    "sha256": "4bf9544ec4ed9a01f2cf73decee2e1f49f52a7213c734591f05d9fb4881a77b9",
+    "duplicateOf": null,
+    "perceptualHash": "1100110011111100110110001101101010111110100110101001001001101101",
+    "meanLuminance": 142.53674638605443,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-10",
+    "sourcePath": "assets/projects/10.jpg",
+    "optimizedPath": "/media/projects-10-716.webp",
+    "width": 716,
+    "height": 537,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-10-360.webp"
+      },
+      {
+        "width": 716,
+        "path": "/media/projects-10-716.webp"
+      }
+    ],
+    "alt": "Black-framed sliding glass doors connecting a tiled room to another space",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAwABABoJYwC7AEOtWVRAAD82SOHQrfUSVS0hV1Zl7KRjONz13ZB+1h0HGLE24AAAA==",
+    "sha256": "9dbe3fb07cec7f3ce4b9b04179d10480a400de6727b7547948929510b82d8ae1",
+    "duplicateOf": null,
+    "perceptualHash": "1010000100001010000011010011101001011010000011100000111000001101",
+    "meanLuminance": 128.5580870343206,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-11",
+    "sourcePath": "assets/projects/11.jpg",
+    "optimizedPath": "/media/projects-11-537.webp",
+    "width": 537,
+    "height": 716,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-11-360.webp"
+      },
+      {
+        "width": 537,
+        "path": "/media/projects-11-537.webp"
+      }
+    ],
+    "alt": "Dark-framed glass door standing open in an unfinished wall",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoQABUAPxF4tFGsJyUisAgBgCIJZQAAUWgpHY9r95ABb0AA/sT15PgbviJq6mU8wNDLIu5z0X+pGdVkpLGTJsUeZQGi6oSGqCHVpcwP4mZTxJAAAAA=",
+    "sha256": "235c0ed02f6130de23a5551bcda8b15a75a65fdf74a7d35e31473534bc14f6f5",
+    "duplicateOf": null,
+    "perceptualHash": "0111000001110000011011000110110011100000111010001110010011110000",
+    "meanLuminance": 159.833697450142,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-12",
+    "sourcePath": "assets/projects/12.jpg",
+    "optimizedPath": "/media/projects-12-537.webp",
+    "width": 537,
+    "height": 716,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-12-360.webp"
+      },
+      {
+        "width": 537,
+        "path": "/media/projects-12-537.webp"
+      }
+    ],
+    "alt": "Glass-panel interior door beside white cabinetry",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoQABUAPxF4slEsJ6SisAgBgCIJZWDrU05vEe6n66+g7HAA/t8C1MTTRjxZA9YST3+YKcPf9mVZoK1/M3zo+W7IdltUqAAA",
+    "sha256": "9427ee73dca82118d0cade8b2a9b1cfb30f6a1550e57d443ad4337dc7449eb4b",
+    "duplicateOf": null,
+    "perceptualHash": "1011110010001101100011011000110110001101011010011111100111101000",
+    "meanLuminance": 166.5165959239724,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-13",
+    "sourcePath": "assets/projects/13.jpg",
+    "optimizedPath": "/media/projects-13-498.webp",
+    "width": 498,
+    "height": 716,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-13-360.webp"
+      },
+      {
+        "width": 498,
+        "path": "/media/projects-13-498.webp"
+      }
+    ],
+    "alt": "Two white-framed window panels with horizontal external bars",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoQABcAPxF0slCsJqSisAgBgCIJZwAALGU3gvXPV+MxgAD8UvgQELULSpyfQJOVkyLa0H92Nsnn4LTjnfWg1LinTiosRgAA",
+    "sha256": "a6d7ef3e1a3df8992283bfd82c40a7030aaef72a15cc0038a4f33e6b1df386cb",
+    "duplicateOf": null,
+    "perceptualHash": "0010101000110011001100110011001101110011001100110011001100110011",
+    "meanLuminance": 181.5829154607256,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-14",
+    "sourcePath": "assets/projects/14.jpg",
+    "optimizedPath": "/media/projects-14-537.webp",
+    "width": 537,
+    "height": 716,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-14-360.webp"
+      },
+      {
+        "width": 537,
+        "path": "/media/projects-14-537.webp"
+      }
+    ],
+    "alt": "Upward view of white-framed glazing and balconies around a courtyard",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoQABUAPxFysVCsJqSisAgBgCIJZwDMHB03hAGJCDxaej6AAPU3qcj6lJPuiUnklTkGMtqK6Pbo28LMtgbPTCXZIvBpBKw9fArVgAAA",
+    "sha256": "4a4ed7db4dd1942c0c053c1065ed87eb2a6bf2ec766db917c4a130bc28cfb72d",
+    "duplicateOf": null,
+    "perceptualHash": "0110110001010011010100100001101001011010101010011010110010010101",
+    "meanLuminance": 127.22316459120086,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-15",
+    "sourcePath": "assets/projects/15.jpg",
+    "optimizedPath": "/media/projects-15-716.webp",
+    "width": 716,
+    "height": 537,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-15-360.webp"
+      },
+      {
+        "width": 716,
+        "path": "/media/projects-15-716.webp"
+      }
+    ],
+    "alt": "White multi-panel window with a smaller central opening panel",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAwABABoJZwAApkMDfIAAP4/BrlhgUgVvLtZ0BAjX+49P6VpYEAA",
+    "sha256": "e437d45525167a519258214c69c97caf36ef48186346c8a6b25351853da0ca40",
+    "duplicateOf": null,
+    "perceptualHash": "0000001100000011101010111000111010101010100010101010100010001110",
+    "meanLuminance": 123.01590410203593,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-16",
+    "sourcePath": "assets/projects/16.jpg",
+    "optimizedPath": "/media/projects-16-716.webp",
+    "width": 716,
+    "height": 537,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-16-360.webp"
+      },
+      {
+        "width": 716,
+        "path": "/media/projects-16-716.webp"
+      }
+    ],
+    "alt": "Glass interior partition around a bright working space",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwABABoJZQAAxZeFeMd23AA/NXQRcJhSMXOkiigjtrt25ptMq0V2twgAA==",
+    "sha256": "d708e90a5f505f6333e50cf87ad1c100c0187792d603cd5cfa4eb1586297a670",
+    "duplicateOf": null,
+    "perceptualHash": "0000000001101000010011100101101001010010010101101100100101000111",
+    "meanLuminance": 141.74965929070046,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-17",
+    "sourcePath": "assets/projects/17.jpg",
+    "optimizedPath": "/media/projects-17-1920.webp",
+    "width": 4032,
+    "height": 3024,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-17-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-17-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-17-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-17-1920.webp"
+      }
+    ],
+    "alt": "White-framed folding glass panels beside an interior counter",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAwABABoJQBOgCHmv5QcxgAA/oWgTHNlfrCx3lTQk9geLLBBR2De9cuJM5agAAA=",
+    "sha256": "47553dd26b8ea3940397457eedc1308411c9793aa3b9d02d10ef6dd0e6545f1e",
+    "duplicateOf": null,
+    "perceptualHash": "1111010011011001110110010011101000111100011000111011001111011000",
+    "meanLuminance": 112.35867630713551,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-18",
+    "sourcePath": "assets/projects/18.jpg",
+    "optimizedPath": "/media/projects-18-1920.webp",
+    "width": 3024,
+    "height": 4032,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-18-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-18-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-18-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-18-1920.webp"
+      }
+    ],
+    "alt": "Pair of white-framed glass doors in a narrow interior opening",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoQABUAPxFwsFAsJiSisAgBgCIJZwCuI3gAfTjDcOg5zmb4AP7VlVMKYmXOhX/QpMHSIMYmFeWtcq65HBWcD9ImqCRSeMcbFNwp37LNvEjA/lvbYxewAA==",
+    "sha256": "d75626f41ae966303af238eb89f85a734a71841f46c97ed22aac178857504feb",
+    "duplicateOf": null,
+    "perceptualHash": "1100001111001100011011000110110001101100011011000100110000001100",
+    "meanLuminance": 172.0202442956349,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-19",
+    "sourcePath": "assets/projects/19.jpg",
+    "optimizedPath": "/media/projects-19-1920.webp",
+    "width": 3024,
+    "height": 4032,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-19-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-19-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-19-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-19-1920.webp"
+      }
+    ],
+    "alt": "Bright unfurnished room with large black-framed windows and glass doors",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoQABUAPxFysFAsJqSisAgBgCIJQBOgA9hhKTVVc5xhAVsAAP6zJg6Rdz3RiycRnASw2uBCux7gv1tPB613EmZN7l+qKtcx64rfegAA",
+    "sha256": "ef3978179195c5fa13df4835b1147fba28da135cf4c956029258eaa6b17ae895",
+    "duplicateOf": null,
+    "perceptualHash": "1100001111001111011100010111000100010001010011110111011100010011",
+    "meanLuminance": 179.27481265943877,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-20",
+    "sourcePath": "assets/projects/20.jpg",
+    "optimizedPath": "/media/projects-20-1920.webp",
+    "width": 3024,
+    "height": 4032,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-20-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-20-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-20-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-20-1920.webp"
+      }
+    ],
+    "alt": "Clear glass shower enclosure against dark bathroom tile",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoQABUAPxF0slCsJqSisAgBgCIJZwAASnSKgjktOREy0ADyU63UjdowgGz5VjJ7K3TIY8sOuhSigLLYa7s4qXx5qaxVYctkOBwAAA==",
+    "sha256": "bd7f20aad66e91a930d046d6ab3cfff5b9b6624639c48b25cfc33dc332540510",
+    "duplicateOf": null,
+    "perceptualHash": "0000000110010010100100100001001010110010001101101111010011111001",
+    "meanLuminance": 133.23833751286008,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-21",
+    "sourcePath": "assets/projects/21.JPG",
+    "optimizedPath": "/media/projects-21-1920.webp",
+    "width": 3024,
+    "height": 4032,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-21-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-21-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-21-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-21-1920.webp"
+      }
+    ],
+    "alt": "Frosted glass shower door with a long vertical handle",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwBACdASoQABUAPxFysVCsJqSisAgBgCIJQBOmUABhyzIH5sWxTxS3RCAA/l7vCc9kre4AtgoJlcPFtriyUxC2xBmRw5bFX6b2/ROzKGOcOpKuoAA=",
+    "sha256": "35c200c0d5aa419a4c424c31bb139b01df073a9be004cd69c3be099ead5832fd",
+    "duplicateOf": null,
+    "perceptualHash": "1101001100101111001010110011101100111011001110111111101111000111",
+    "meanLuminance": 161.60307823457316,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-22",
+    "sourcePath": "assets/projects/22.jpg",
+    "optimizedPath": "/media/projects-22-1920.webp",
+    "width": 3024,
+    "height": 4032,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-22-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-22-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-22-1200.webp"
+      },
+      {
+        "width": 1920,
+        "path": "/media/projects-22-1920.webp"
+      }
+    ],
+    "alt": "White-framed glass door pair with vertical handles",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABUAPxF0slCsJqSisAgBgCIJZQDA3BihShk8ICb8L4AA27qsgmtxSPTQ3XgOYivksfMs2SDbxGF6MKMpQnkM9MkZOHKABYmV58AA",
+    "sha256": "7cf5ffc8090f72880f93d026f3d087791156d738444a95d1e5c3ac6610202f55",
+    "duplicateOf": null,
+    "perceptualHash": "0000111111010100100101001001010011010100110101001101010010010100",
+    "meanLuminance": 140.7237184370276,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-23",
+    "sourcePath": "assets/projects/23.jpeg",
+    "optimizedPath": "/media/projects-23-1024.webp",
+    "width": 1024,
+    "height": 768,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-23-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-23-720.webp"
+      },
+      {
+        "width": 1024,
+        "path": "/media/projects-23-1024.webp"
+      }
+    ],
+    "alt": "Dining area enclosed by white-framed glazed openings",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAwABABoJZQAAlX2E6qAAN+JyZg5z1Oef/460ueuhNa0qWJUlIZfDF7XH8AA",
+    "sha256": "bcb01d9f5a03c7d87692176527bb4e1768285c2ee3a49cf9518550e7ade52789",
+    "duplicateOf": null,
+    "perceptualHash": "1100011001100111001000110110011011000110001101100001011011000011",
+    "meanLuminance": 129.29672368367514,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-24",
+    "sourcePath": "assets/projects/24.jpeg",
+    "optimizedPath": "/media/projects-24-625.webp",
+    "width": 625,
+    "height": 1024,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-24-360.webp"
+      },
+      {
+        "width": 625,
+        "path": "/media/projects-24-625.webp"
+      }
+    ],
+    "alt": "Glass shower enclosure and tiled bathroom interior",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAwCdASoQABoALtGIxGIkLCwsDADQSzgGN6IcKFbwb4AA4BWb8GgKB090QJPF783js5AXpR9T2bJtKmynsHhly0PAAA==",
+    "sha256": "9b8f727024e705f69a44da093682fd60168ac2e8fef560b718781cb43a83756b",
+    "duplicateOf": null,
+    "perceptualHash": "1001101110111010101001110000011100110111101001101010000110000011",
+    "meanLuminance": 144.3362984375,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-25",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.53 PM (2).jpeg",
+    "optimizedPath": "/media/projects-25-1448.webp",
+    "width": 1448,
+    "height": 1086,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-25-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-25-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-25-1200.webp"
+      },
+      {
+        "width": 1448,
+        "path": "/media/projects-25-1448.webp"
+      }
+    ],
+    "alt": "Supplied promotional layout containing architectural glazing photography",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAwABABoJQBOgCHef6cxsAD+GA1DgApYHn8a9Gn4nTzjizxS0mQUAbGqqgAA",
+    "sha256": "221a9890c24edb0de12d6f6aeace4d5d43801317c7b4454f6e9a1c65ae357d90",
+    "duplicateOf": null,
+    "perceptualHash": "1100110100010011001100110100110101110001001011110011001100110011",
+    "meanLuminance": 101.88073217138265,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-26",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.53 PM.jpeg",
+    "optimizedPath": "/media/projects-26-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-26-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-26-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-26-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-26-1280.webp"
+      }
+    ],
+    "alt": "Group seated at an interior table",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAwABABoJQBdgB7CYWKAAP3wd2veSiGh1OzrxrPGLCJbQTkqEfubt6+Ze10B6mZ4p5M9UAA=",
+    "sha256": "e0b008bd2e5bad9fa6df02594d7cdee07ec9fd237b20b6311ca7360b4a8540aa",
+    "duplicateOf": null,
+    "perceptualHash": "1100100011100101011001010010000010011010100110001101100010110000",
+    "meanLuminance": 140.4027587890625,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-27",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.54 PM (1).jpeg",
+    "optimizedPath": "/media/projects-27-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-27-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-27-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-27-960.webp"
+      }
+    ],
+    "alt": "Curved staircase with transparent glass balustrade",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoQABUAPxFysFAsJqSisAgBgCIJZACw7B4g9eLrxLhyDjgA/aVWqFdczHt4JsEe0czm7PbFWjoqJpMlOvbVkg8hkmYMj9I+wIKbG+guAAA=",
+    "sha256": "a4ce5794c589146cb1d64a7c134c197a3ca787a1e1afad0a29e205c482baa483",
+    "duplicateOf": null,
+    "perceptualHash": "1111101011110010110110001001111000100011001010011110101010110110",
+    "meanLuminance": 132.32844482421876,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-28",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.54 PM (2).jpeg",
+    "optimizedPath": "/media/projects-28-1122.webp",
+    "width": 1122,
+    "height": 1402,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-28-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-28-720.webp"
+      },
+      {
+        "width": 1122,
+        "path": "/media/projects-28-1122.webp"
+      }
+    ],
+    "alt": "Supplied promotional layout containing architectural glazing photography",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoQABQAPxF2sVCsJySisAgBgCIJQBOgAf1qVRnElRuAAP7D3gGpQ70Pl1TwlE2g52/m4I6R7HFxdz7KeGU1H7jXubcFVju5VDx+rOKd14AAAA==",
+    "sha256": "a3fbbe10469e658b806803aa23f8f20d1b8b2789752fff4c7078f6d68f7394e4",
+    "duplicateOf": null,
+    "perceptualHash": "1011001101100001010001010110111000011100010000101111000111111000",
+    "meanLuminance": 180.31614373151672,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-29",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.54 PM.jpeg",
+    "optimizedPath": "/media/projects-29-1086.webp",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-29-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-29-720.webp"
+      },
+      {
+        "width": 1086,
+        "path": "/media/projects-29-1086.webp"
+      }
+    ],
+    "alt": "Black-framed clear glass enclosure inside a bright tiled room",
+    "category": "projects",
+    "focalPoint": "50% 54%",
+    "placeholder": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoQABUAPxF0slCsJqSisAgBgCIJZQAAUKtL9ieasKgA/ffOCUKNfReSZqujJgJGQ3omBhVBr9A+pU6BY00WOAAA",
+    "sha256": "f8cd9349e9c29496be147c84721e8047d8cb031b5b07ef2e7e6776a85474cdc1",
+    "duplicateOf": null,
+    "perceptualHash": "0111001110011100101111101000101010001110100111101000110000100111",
+    "meanLuminance": 163.40175500849588,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-30",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.55 PM (1).jpeg",
+    "optimizedPath": "/media/projects-30-1122.webp",
+    "width": 1122,
+    "height": 1402,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-30-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-30-720.webp"
+      },
+      {
+        "width": 1122,
+        "path": "/media/projects-30-1122.webp"
+      }
+    ],
+    "alt": "Supplied promotional layout containing architectural glazing photography",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoQABQAPxFysVAsJqSisAgBgCIJQBOgA4JpjS68H9iAAP7IU9XiUSGbdjhKVeotCL1aCkKQe1kezFLc0OYZwYawEA03wAAA",
+    "sha256": "00d5d3fe97b115b31609cf850c957e2b59b691eb798140e25b4e1d843def14ff",
+    "duplicateOf": null,
+    "perceptualHash": "0011110000111101000011010001110100011101001001110100001110010100",
+    "meanLuminance": 173.71078113517487,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-31",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.55 PM (2).jpeg",
+    "optimizedPath": "/media/projects-31-1254.webp",
+    "width": 1254,
+    "height": 1254,
+    "orientation": "square",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-31-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-31-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-31-1200.webp"
+      },
+      {
+        "width": 1254,
+        "path": "/media/projects-31-1254.webp"
+      }
+    ],
+    "alt": "Supplied promotional layout containing architectural glazing photography",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQABAABABoJZAC7ADDZIv6MAD+7abPPtRO5+UUwrjVhG+BftiixH9PfdAbNHHzYyvwMPIdBjKh5kgA",
+    "sha256": "f335a5cc1baf637f3e32a8b2f2f3e842b64ee7bb3bb1d199d02e646b6d0e3d94",
+    "duplicateOf": null,
+    "perceptualHash": "0010011101101101111111011011110000101100011011000111110011011011",
+    "meanLuminance": 164.7715609888866,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-32",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.55 PM.jpeg",
+    "optimizedPath": "/media/projects-32-1086.webp",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-32-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-32-720.webp"
+      },
+      {
+        "width": 1086,
+        "path": "/media/projects-32-1086.webp"
+      }
+    ],
+    "alt": "Supplied promotional layout containing architectural glazing photography",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoQABUAPxFysFCsJqSisAgBgCIJZQAAOhwiqliIAAD+sys18RZ9kazKa++kWUi1ZwsDDp1kd50Vze7WonSgMGB7LBCIAA==",
+    "sha256": "f023b726dee7809a80cdeefdd88d9883399294e36700ae860a919e816e6ae28d",
+    "duplicateOf": null,
+    "perceptualHash": "1011110110011101110110101000110111101100101101101111101111010010",
+    "meanLuminance": 150.37466868634453,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "projects",
+    "placement": "Excluded from public portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-33",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.56 PM (1).jpeg",
+    "optimizedPath": "/media/projects-33-1085.webp",
+    "width": 1085,
+    "height": 1450,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-33-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-33-720.webp"
+      },
+      {
+        "width": 1085,
+        "path": "/media/projects-33-1085.webp"
+      }
+    ],
+    "alt": "Interior stair landing with a transparent glass railing and dark handrail",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoQABUAPxFysFAsJqSisAgBgCIJZQCsAB2TKlbqwY3fAAD+50B+ziKq9nQI6rVwz+nQhj5mAwohIWKdi+eAUoAj6k/iiaDQAAA=",
+    "sha256": "ec6ecbb3a3750e15d64e501189c8d12b4c97733dbb50edf8c4cb43f2310c7792",
+    "duplicateOf": null,
+    "perceptualHash": "1111101011100010101001101010101010101110111000100111111011001100",
+    "meanLuminance": 208.25391196567614,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-34",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.56 PM (2).jpeg",
+    "optimizedPath": "/media/projects-34-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-34-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-34-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-34-960.webp"
+      }
+    ],
+    "alt": "Black-framed floor-to-ceiling glazed room with tiled flooring and overhead glass",
+    "category": "projects",
+    "focalPoint": "50% 52%",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoQABUAPxFysFCsJqSisAgBgCIJYwC06Beno2P7bz/vDB4ToAD+tauikR0NbQ8XE33G3PK2k+iECsKTJjMoZhS6QUAs/ag1iHa5b3TJWvJDgAAA",
+    "sha256": "885685bf1dfafc55856347796deca57f79ea08446eb8e0583e9c811f5b16cd62",
+    "duplicateOf": null,
+    "perceptualHash": "0100111100011001011000110100100100001011000111110011111100001101",
+    "meanLuminance": 113.61809000651041,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-35",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.56 PM (3).jpeg",
+    "optimizedPath": "/media/projects-35-1085.webp",
+    "width": 1085,
+    "height": 1450,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-35-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-35-720.webp"
+      },
+      {
+        "width": 1085,
+        "path": "/media/projects-35-1085.webp"
+      }
+    ],
+    "alt": "Upward view of a building with projecting balconies and pale cladding",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoQABUAPxF0sFCsJqSisAgBgCIJZQDCgBoeTUDi4vBX3oTQAM4VeMto47vzqenPFWydpI1B0N+e2eteaoHEviBJP42ls1fBl6pyfIrkSMSQeHXqAAA=",
+    "sha256": "e771cb896c7bd9f448c475165d46fdf1fda74a99d5140b43f7b8a8fd9cad0c24",
+    "duplicateOf": null,
+    "perceptualHash": "0110010001111010110110011010110110110001101111000011011111000001",
+    "meanLuminance": 114.07777975528364,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-36",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.56 PM.jpeg",
+    "optimizedPath": "/media/projects-36-1086.webp",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-36-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-36-720.webp"
+      },
+      {
+        "width": 1086,
+        "path": "/media/projects-36-1086.webp"
+      }
+    ],
+    "alt": "Tall urban building with white and gray façade panels",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoQABUAPxF0slCsJqSisAgBgCIJZQAASirmEVVL0EZAgAD+lfh5PhOy5FLb1pKpTP7zkWte5YEVUFSLo7h7RvSr98K2enQ0AAA=",
+    "sha256": "65627dc68b60fa342a7fba54e5ceb2783585f37f883ca5d8e426a121a3e4ac12",
+    "duplicateOf": null,
+    "perceptualHash": "0011001010110000101100000010001001101010011010010110000101100010",
+    "meanLuminance": 140.8736531241415,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-37",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.57 PM (1).jpeg",
+    "optimizedPath": "/media/projects-37-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-37-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-37-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-37-960.webp"
+      }
+    ],
+    "alt": "Tall building with red vertical façade panels and repeated glazing",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoQABUAPxF0sFCsJqSisAgBgCIJQBadA8DzcE94sKSNih0AAP7TNKxqj610RDF9ppg2jiuOcCTkV9ABjhg9aETaEta0cNXYUHXhvd8AAAA=",
+    "sha256": "492e41bda8b9248899e87a2dfee2cb90e7322c8a1cc094e10739b2ea8ba99f63",
+    "duplicateOf": null,
+    "perceptualHash": "1110110111101101111110011110100011101000111011001101110011101100",
+    "meanLuminance": 153.87598307291665,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-38",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.57 PM (2).jpeg",
+    "optimizedPath": "/media/projects-38-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-38-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-38-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-38-960.webp"
+      }
+    ],
+    "alt": "Gray building elevation with stacked windows and a side staircase",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABUAPxFwsFAsJiSisAgBgCIJZQC7ABE7kJelGj5qoOAA/c9geTX/oNLt8dNt7UtKjLP8b6cvkwVYZkE8PENGLOqHtel7kXGkAAAA",
+    "sha256": "ab626075b0d6f802431ebd9ba4ca32374dae702b79de3a50cf9e06f554dc76b4",
+    "duplicateOf": null,
+    "perceptualHash": "0010010000110000011100000101100111111001111000011110010011100010",
+    "meanLuminance": 146.51549723307292,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-39",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.57 PM.jpeg",
+    "optimizedPath": "/media/projects-39-1086.webp",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-39-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-39-720.webp"
+      },
+      {
+        "width": 1086,
+        "path": "/media/projects-39-1086.webp"
+      }
+    ],
+    "alt": "Residential façade viewed from below beside a tree",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAwCdASoQABUAPxFysVCsJqSisAgBgCIJZACdABhbFol5h07wAP5GpjinfffvSXG0aNp+5Ip84XsNg9eF7I41MY2od5kHbzXoV/B+ir1Yu+1R6M2TRo9iAAA=",
+    "sha256": "6b5a60e8ec31bc9f767c77be20ff55f61bde2c7df4a244117943e974d8deb27c",
+    "duplicateOf": null,
+    "perceptualHash": "0100011000110101011011010011010100111011011001110101001101011011",
+    "meanLuminance": 78.12711570159641,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-40",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.58 PM (3).jpeg",
+    "optimizedPath": "/media/projects-40-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-40-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-40-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-40-960.webp"
+      }
+    ],
+    "alt": "Brown-framed glazed door and matching side panel",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASoQABUAPxF0sVCsJqSisAgBgCIJYgCdMoR3ACSucNw7QsOhvE8AAPcpq6y3Sg76xa1hchc09Zx/JPBfEvIbRRrOGAUEZUTOitFeUDs8AAA=",
+    "sha256": "8a79bb800c08f1ed81c65e320505f8aa1b855d22a4488a9e4c5fedb9b6d99c61",
+    "duplicateOf": null,
+    "perceptualHash": "1001001110000000110010101110000011100010110001101001001010011110",
+    "meanLuminance": 163.86481608072916,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-41",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.58 PM.jpeg",
+    "optimizedPath": "/media/projects-41-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-41-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-41-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-41-960.webp"
+      }
+    ],
+    "alt": "Dark-framed glazed enclosure with many small ceiling lights",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAwCdASoQABUAPxFysVAsJqSisAgBgCIJZwAAImaB4DnQAMwPhnkKBY4POJSNldX0nDRtonT2P/3PkX8XUraA/qigAA==",
+    "sha256": "752c0db14bc49405e997d731fd6380afc646c5de570fd14f7157eecb07c66eee",
+    "duplicateOf": null,
+    "perceptualHash": "1000101111001010000101100001011100010111000101111110010111111110",
+    "meanLuminance": 96.91099853515625,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-42",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.59 PM (1).jpeg",
+    "optimizedPath": "/media/projects-42-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-42-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-42-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-42-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-42-1280.webp"
+      }
+    ],
+    "alt": "Bright room with windows on adjacent walls and green curtains",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAwABABoJZQC7ADv6OeYAAD3Ml/iFfjdpCZ91xNEFa5KJ6a5OzrVrfMDgAAA",
+    "sha256": "12a7f4193540deca9654b97ad0310cef236000312857d5aaaa124a20c33c8d2e",
+    "duplicateOf": null,
+    "perceptualHash": "1000101010000101000000110010101100101011001010110000101100001011",
+    "meanLuminance": 161.24796549479166,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-43",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.59 PM (2).jpeg",
+    "optimizedPath": "/media/projects-43-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-43-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-43-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-43-960.webp"
+      }
+    ],
+    "alt": "Interior stair with glass balustrade and a dark handrail",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoQABUAPxF0slCsJqSisAgBgCIJZQAAUXUIUn1j8GxKLDEAAP2KoOmNiYOgY3XUPPYaFNzQtpQgg4M47HAVrbryULwHC3CvTPRMDw+muqAAAA==",
+    "sha256": "84408e9848e345484e2855f1b0912b637d5b1374a393d4e4a9f0544240899b69",
+    "duplicateOf": null,
+    "perceptualHash": "0001001010010110100011011100110110001011100111111111001111011011",
+    "meanLuminance": 153.20996175130207,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-44",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.27.59 PM.jpeg",
+    "optimizedPath": "/media/projects-44-1200.webp",
+    "width": 1200,
+    "height": 1600,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-44-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-44-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-44-1200.webp"
+      }
+    ],
+    "alt": "Angular pale house exterior with glass openings and a boundary wall",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABUAPxF0sFCsJqSisAgBgCIJQBOgA9A4aNzQdkIBqAAA/eEGlSkWzPHU362AjEbJRgm2LRCz1FH6Du96m7trlLlWIJLHX+r59AAA",
+    "sha256": "961bbfc36bc9cbe03de3ae8c6aa6d73743974552634eab1e7b7370cef13f692a",
+    "duplicateOf": null,
+    "perceptualHash": "1001000010011000110010100000110000001101111000011001111110000111",
+    "meanLuminance": 151.06662395833334,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-45",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.00 PM (1).jpeg",
+    "optimizedPath": "/media/projects-45-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-45-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-45-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-45-960.webp"
+      }
+    ],
+    "alt": "Glass shower enclosure against pale bathroom tiles",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAwCdASoQABUAPxFyslAsJqSisAgBgCIJZwAANRrG6igRwoHM2ADauxOLZ2mOzHO6LPFR1Ho091Bvg/nvbUAA",
+    "sha256": "192d9c8a5e60bf0be3dd7a951e6a274afb280238d5061d70b3838853a9a5320f",
+    "duplicateOf": null,
+    "perceptualHash": "0010011010001100100011111000111110001111100011101100110011001100",
+    "meanLuminance": 125.02529378255208,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-46",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.00 PM (2).jpeg",
+    "optimizedPath": "/media/projects-46-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-46-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-46-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-46-960.webp"
+      }
+    ],
+    "alt": "Tiled bathroom with a glass shower screen beside a basin",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAwCdASoQABUAPxFwsFAsJiSisAgBgCIJZwAAIATHGZajyADx4GUu6lzZaewQx8GRAbfjJJmlH4gtYax7PO2AHPD+V1jAcW3eLgAA",
+    "sha256": "19655c36cb2139a3e0cdcefa145683c3f7e7bb9f70a03156677192b92942811f",
+    "duplicateOf": null,
+    "perceptualHash": "1001101101111011001101101011011010100100001101001010011010000111",
+    "meanLuminance": 121.7203857421875,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-47",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.00 PM.jpeg",
+    "optimizedPath": "/media/projects-47-1198.webp",
+    "width": 1198,
+    "height": 1600,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-47-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-47-720.webp"
+      },
+      {
+        "width": 1198,
+        "path": "/media/projects-47-1198.webp"
+      }
+    ],
+    "alt": "Angular building entrance with a circular opening in the roof plane",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoQABUAPxFysFCsJqSisAgBgCIJQBYdgVuzyO9YGhAA/GXu56otcd7WQZgT6lkO+bt8KPSPYmoJjwt53sGckbreMydaYigYigCRLKT+KWowAA==",
+    "sha256": "c21dc24379be55cb2ede68bb941cef8571d0e739bbb9e0fbd4ad703006c4a256",
+    "duplicateOf": null,
+    "perceptualHash": "1000100010111000111010011111000101110001110010011111110001101110",
+    "meanLuminance": 164.661414336394,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-48",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.01 PM (1).jpeg",
+    "optimizedPath": "/media/projects-48-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-48-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-48-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-48-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-48-1280.webp"
+      }
+    ],
+    "alt": "Glass partitions surrounding a furnished meeting room",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABABoJZwAAkjgTRAAAPx2xKtOdqRDmzBopzKg6vcmrrxOfTnVnYckw3WVsAA=",
+    "sha256": "86e1c9f7059f3997547eaba1787fc0765ed83ebeb8a721b3013e6d0a76617175",
+    "duplicateOf": null,
+    "perceptualHash": "0110010100011111110111101000111110000111001000110011011010010110",
+    "meanLuminance": 128.59713460286457,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-49",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.01 PM (2).jpeg",
+    "optimizedPath": "/media/projects-49-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-49-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-49-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-49-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-49-1280.webp"
+      }
+    ],
+    "alt": "Unfurnished room with large windows casting warm light across the floor",
+    "category": "projects",
+    "focalPoint": "50% 58%",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAwABABoJYwC7AB1oFlgAP6roirIbKw100tT9Nn+ouXSiAA=",
+    "sha256": "e1f56ad3de07c06020937ce273af7186578c4596bcfc4ca759cee117f8943b09",
+    "duplicateOf": null,
+    "perceptualHash": "0010001000100010000000011100010010001001010000011100000111001100",
+    "meanLuminance": 129.4717529296875,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Featured portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-50",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.01 PM (3).jpeg",
+    "optimizedPath": "/media/projects-50-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-50-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-50-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-50-960.webp"
+      }
+    ],
+    "alt": "Urban building with large dark-framed windows",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoQABUAPxFysFAsJqSisAgBgCIJZQC7K78AiIV4trzQAPgp1qKmglVX08j5k39C2msIUuVVNLvIAXW6CSRciqpy0wTWFoxdJfZZ6vrW5Szo8QLkMNnioGDHgAA=",
+    "sha256": "24da0b5f0546add7cf1d5b7eaaf5c68f393005207e1c996a65103b2beea0fbdd",
+    "duplicateOf": null,
+    "perceptualHash": "1100001111000011110010011100100111001101110011011100110111001101",
+    "meanLuminance": 144.5765625,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-51",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.01 PM.jpeg",
+    "optimizedPath": "/media/projects-51-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-51-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-51-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-51-960.webp"
+      }
+    ],
+    "alt": "Exterior building with a glazed rooftop structure",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwAwCdASoQABUAPxFysFAsJqSisAgBgCIJQBdgAur5lO8JGJgA2fzfdKjJl7FhVfq+TqHLf4PmJoTYFLzyJyzD5Xi9WTgPySO/OmRffVQlfWicBBduGNSr2gAAAA==",
+    "sha256": "177c98e990a4fa0a0bdc7568c1faf01d7bdacaa81e74888251fe4c643ee2d416",
+    "duplicateOf": null,
+    "perceptualHash": "1001101010111010111001101101011000010110001100100110010000100110",
+    "meanLuminance": 132.57631754557292,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-52",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.02 PM (1).jpeg",
+    "optimizedPath": "/media/projects-52-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-52-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-52-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-52-960.webp"
+      }
+    ],
+    "alt": "Living area with white curtains and dark-framed windows",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoQABUAPxF0sFAsJySisAgBgCIJZQCdMoABJbdSMUM1gACFKMLgd6b8iVxqVckrURd6d5yIdxhe/pF9NZfUKztOgYWyXkU36lZ3GiYbkuHoxWw1kcaMAAAA",
+    "sha256": "ffe5bb093ae690ae4fb111e4d187f93af6dc9f79dbc27246110c966c74d2cf4b",
+    "duplicateOf": null,
+    "perceptualHash": "1100010111000110110010000110110101111001100100010110001101100011",
+    "meanLuminance": 131.59728434244792,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-53",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.02 PM (2).jpeg",
+    "optimizedPath": "/media/projects-53-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-53-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-53-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-53-960.webp"
+      }
+    ],
+    "alt": "Person beside a broad dark-framed sliding glass opening",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABUAPxFysVCsJqSisAgBgCIJYwAAPcQtMScgrb5iVAAA/oLEVZamOjxh6iGQbNDAzqKmsk8RTjNKL/NBLTq2H25OejlMe7YLwAAA",
+    "sha256": "d23f5b9ef7746054cfdcc1f03ac04d021c1211176e41fc1a26093a4b8c92c0a3",
+    "duplicateOf": null,
+    "perceptualHash": "1000001000101000001011000010010000101101001111010010001100100111",
+    "meanLuminance": 131.61721354166667,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-54",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.02 PM (3).jpeg",
+    "optimizedPath": "/media/projects-54-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-54-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-54-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-54-960.webp"
+      }
+    ],
+    "alt": "Multi-storey building with a partly completed glazed structure",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoQABUAPxF2sVAsJ6SisAgBgCIJYgCw7GCuVHfLG/Z9AvQA/vBAl7afgHhBtzFHuZG2S/R01uJcw0GcjHP+1GNV+/oTIRUI2wSppuNbC+hXOi5CQWapqAAA",
+    "sha256": "4474dbd2596bd1028582aa2dc8201468c58bd7c79fd85eb4180a1dc5a8f82fa0",
+    "duplicateOf": null,
+    "perceptualHash": "0111001011110000011110100110001111000111010001110100011101110110",
+    "meanLuminance": 130.3777734375,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-55",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.02 PM.jpeg",
+    "optimizedPath": "/media/projects-55-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-55-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-55-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-55-960.webp"
+      }
+    ],
+    "alt": "Tall pale apartment building with repeated balconies and windows",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABUAPxF2sVCsJySisAgBgCIJZQCo9BoTlKLRFnYIQAD+kyuQuCedsKU5zV00XgohSeezxF17e+G9PwWMd0Tpf50oRDDTqvwDAAAA",
+    "sha256": "d3b8787877ce56b721e8d5889ba230559ee33b50e349fa2078d7c519e9cf894c",
+    "duplicateOf": null,
+    "perceptualHash": "1101100111011000110110001101100000010001001110110110011011110100",
+    "meanLuminance": 114.55861165364583,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-56",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.03 PM (1).jpeg",
+    "optimizedPath": "/media/projects-56-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-56-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-56-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-56-960.webp"
+      }
+    ],
+    "alt": "Building façade viewed through trees with glazing and red panels",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoQABUAPxFyslCsJqSisAgBgCIJYwCdABEpBjr+gagA/lTqKC2OeGgAxsKNOUo3a0Nf9oCt95RoPQFbA+oYMZRVgS9cxuFhxRHWcAQhcch9MYAA",
+    "sha256": "4b5aad939d2500a8490d13569f9429fe31e39c476df9623937fd9568d43e252d",
+    "duplicateOf": null,
+    "perceptualHash": "0100111101011001010111000101011010011110101100000011110101111001",
+    "meanLuminance": 108.95396321614584,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-57",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.03 PM (2).jpeg",
+    "optimizedPath": "/media/projects-57-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-57-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-57-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-57-960.webp"
+      }
+    ],
+    "alt": "Tiled bathroom with a transparent glass shower enclosure",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAwCdASoQABUAPxFysFAsJqSisAgBgCIJZwDG9B6R7rJDEi+Zgm4AAPi9w8zCCd6/R5gQADE36b09QCNvG5iVdYjOrHwAAAA=",
+    "sha256": "0ec5ea92f315d21130323bd6fc728c944a34b67623bb8be7e7a1df10c2cb4aab",
+    "duplicateOf": null,
+    "perceptualHash": "0011001100110111001111110001111000011110001110111011011110100110",
+    "meanLuminance": 132.02824951171874,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-58",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.03 PM.jpeg",
+    "optimizedPath": "/media/projects-58-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-58-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-58-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-58-960.webp"
+      }
+    ],
+    "alt": "Pale building façade under blue sky with broad glazing",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoQABUAPxFysFAsJqSisAgBgCIJQBOnKAAcHd4Wz1uSAPzNNnzfYfXxqpLcFDEwu557jlgeddqStfgRyC/vQbCSRtexAAJ/13OZ8PcyIgtwAA==",
+    "sha256": "53034e803f376fb8964cc791a4eec22e5d98099903989715240127729566ce41",
+    "duplicateOf": null,
+    "perceptualHash": "0001101000110001001100000011001001110010011110010111100111001001",
+    "meanLuminance": 133.52378092447915,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": ["projects-01"],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-59",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.04 PM (1).jpeg",
+    "optimizedPath": "/media/projects-59-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-59-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-59-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-59-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-59-1280.webp"
+      }
+    ],
+    "alt": "Sunlit room with warm wood-toned flooring and floor-to-ceiling black-framed windows",
+    "category": "projects",
+    "focalPoint": "50% 64%",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAwABABoJYgCdAB2RTPAAPp927InFjWS2fQObhC90B6oNul8VvYAAAA=",
+    "sha256": "578e517841ec31aede5ec3879c4432fd6ec5e8662a1e449aeaddbbbace6270ff",
+    "duplicateOf": null,
+    "perceptualHash": "0111011010110110110010010101101101011001110011011101001101100001",
+    "meanLuminance": 134.2901180013021,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-60",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.04 PM (2).jpeg",
+    "optimizedPath": "/media/projects-60-720.webp",
+    "width": 720,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-60-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-60-720.webp"
+      }
+    ],
+    "alt": "Illuminated glazed exterior at night among palm trees",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASoQABwAPxF4slEsJ6SisAgBgCIJZQDCgGlfZraTLMCrZRIWQAAA/vrqsZSoaejlwb3auAksg+spICZ7xC8h1iUfj2c6/r52W+AAAA==",
+    "sha256": "cc97378bdad8ff94a552eaeae4e3f49923183b9437564a95c43897c14f52a0d0",
+    "duplicateOf": null,
+    "perceptualHash": "1010110100001101101101110011111100011101010111010000100101001011",
+    "meanLuminance": 47.10634657118055,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Dark scene; preserve atmosphere",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-61",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.04 PM (3).jpeg",
+    "optimizedPath": "/media/projects-61-720.webp",
+    "width": 720,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-61-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-61-720.webp"
+      }
+    ],
+    "alt": "Night view of a lit glazed building reflected in water",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAgCdASoQABwABABoJYwDKAEO/WK4Bk7d/OQKwAAA/vVyvxfu5PzJ8u2ZdRZ++Ascw6vCEAd73uxHmEJ5rzvWTsgAAA==",
+    "sha256": "5d42758a367bd7c06fcdcef7cc74691fce2feed01776cbc662d5ba6da1470193",
+    "duplicateOf": null,
+    "perceptualHash": "0000101100001011000001010010010100100011000001010000101100010011",
+    "meanLuminance": 50.459879557291664,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Dark scene; preserve atmosphere",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-62",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.04 PM.jpeg",
+    "optimizedPath": "/media/projects-62-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-62-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-62-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-62-960.webp"
+      }
+    ],
+    "alt": "Upper-floor landing with transparent glass balustrades",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQAwCdASoQABUAPxFysFAsJqSisAgBgCIJZQCw7AhLw1B8AAD8UtmpU0sNI+V0XyqgjhHw1dgpsnuySl2v4g1Sx+NfTAAA",
+    "sha256": "34f6b37cb51496bc158626b95233bdcc8697ada764ea0a6d671c688ed207d4c9",
+    "duplicateOf": null,
+    "perceptualHash": "1100101001011111000111100001101000110010111101001001011000100101",
+    "meanLuminance": 153.57068603515626,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-63",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.05 PM (1).jpeg",
+    "optimizedPath": "/media/projects-63-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-63-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-63-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-63-960.webp"
+      }
+    ],
+    "alt": "Upward view of white-framed windows around an internal courtyard",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoQABUAPxF0sFCsJqSisAgBgCIJZwDG9BQz3qYODbnF/p36EAD5yejGVHaOg8XQHkJfUcFdTzMhUtdNAL9cIsB2DYUX5T4NIAA=",
+    "sha256": "253441fed6aa5ed8389024f76aba0f0faa2c3acaf758f178a61a3fd49b5a32e7",
+    "duplicateOf": null,
+    "perceptualHash": "0010110000010011010100100001101001011010011010001010110010011001",
+    "meanLuminance": 133.1676228841146,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-64",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.05 PM.jpeg",
+    "optimizedPath": "/media/projects-64-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-64-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-64-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-64-960.webp"
+      }
+    ],
+    "alt": "Front elevation with stacked windows, balconies and trees",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoQABUAPxFysVAsJqSisAgBgCIJZQAAUZROE53ruAD3fq4zFOYYYyefYesiGaxlRW+cXE7xtqTdjUJdc+BwS9WrYmgAAA==",
+    "sha256": "5dd8fe727e08526c127b0ba14701a440d4cf7daeabf01c8d0b7ae16c812faf93",
+    "duplicateOf": null,
+    "perceptualHash": "1011010001000100010100100101101010011011100100001100011011100110",
+    "meanLuminance": 130.15871907552082,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-65",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.06 PM (1).jpeg",
+    "optimizedPath": "/media/projects-65-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-65-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-65-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-65-960.webp"
+      }
+    ],
+    "alt": "Close upward view of a building with tall blue-glazed panels",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoQABUAPxF2sVCsJySisAgBgCIJZQBTAAWGYJYO3FpbB3AA/l7Cw0m+N1gNu4z5ExV4wShVLPX5D+BusXd42dyxtJV0zyq8LLDL2WJI7BLZNx7XAAA=",
+    "sha256": "e0753d982f416ff90eb607a5ddf2c2634e4839e3441b405dbdd8e6df338f10bc",
+    "duplicateOf": null,
+    "perceptualHash": "1011001010110000001100010010100100111001011010010111000101101000",
+    "meanLuminance": 156.80178629557292,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Exteriors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-66",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.06 PM (2).jpeg",
+    "optimizedPath": "/media/projects-66-1280.webp",
+    "width": 1280,
+    "height": 1020,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-66-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-66-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-66-1200.webp"
+      },
+      {
+        "width": 1280,
+        "path": "/media/projects-66-1280.webp"
+      }
+    ],
+    "alt": "Black-framed corner windows beside a decorative pale privacy screen",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAA0ABABoJQBdgA7rfoAA/rQM9DcoZxk6Bfr2xy7zxMTPDKkP/1fd3y9tHsYAAAA=",
+    "sha256": "dd261eac859716f7e0a6e22059c9af685555947b20dd60175975eec5df16869a",
+    "duplicateOf": null,
+    "perceptualHash": "0110010011100110100001010010010100100101100001011100010011100100",
+    "meanLuminance": 166.7712722120098,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": ["projects-02"],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-67",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.06 PM (3).jpeg",
+    "optimizedPath": "/media/projects-67-1448.webp",
+    "width": 1448,
+    "height": 1086,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-67-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-67-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-67-1200.webp"
+      },
+      {
+        "width": 1448,
+        "path": "/media/projects-67-1448.webp"
+      }
+    ],
+    "alt": "Black-framed glass enclosure in a pale tiled interior",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAwABABoJZwAAlen3y3AAPgYVNV8xAcYsDh6GHWYuhjoEAA=",
+    "sha256": "01ce7004c3b081b3d0fc8160fb56dc5ba35cc9e38317fd9955a14f7d3aa0af42",
+    "duplicateOf": null,
+    "perceptualHash": "1100000110001001100101011101010111110001100101011001011110010101",
+    "meanLuminance": 153.5440036679792,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-68",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.06 PM.jpeg",
+    "optimizedPath": "/media/projects-68-960.webp",
+    "width": 960,
+    "height": 1280,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-68-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-68-720.webp"
+      },
+      {
+        "width": 960,
+        "path": "/media/projects-68-960.webp"
+      }
+    ],
+    "alt": "Bathroom with clear glass panels and warm floor tones",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoQABUAPxF8tFGsKCUisAgBgCIJQAqcAwdi8cX9nK+3nvuGAAD+NFl/lrpi45T6vtK0/AgLD+CtRJySungr/sOgpX62wQuy4onuCiXOuKSibkBDoD9tqj6R6YeR1wnAAAA=",
+    "sha256": "a06478cbe95264fa21b1fba1ab35331894ad3759ba27f4613cbf953c33ab4f13",
+    "duplicateOf": null,
+    "perceptualHash": "0001101011010000101000101011011010110011100100100111001011100101",
+    "meanLuminance": 150.17860677083334,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Glass details",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-69",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.07 PM (1).jpeg",
+    "optimizedPath": "/media/projects-69-1448.webp",
+    "width": 1448,
+    "height": 1086,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-69-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-69-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-69-1200.webp"
+      },
+      {
+        "width": 1448,
+        "path": "/media/projects-69-1448.webp"
+      }
+    ],
+    "alt": "Partly finished interior with black-framed windows and construction materials",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAwABABoJQBOgCPwhZ4SPUAA/uehU+ZfL857oIEx6gmuKky7x1MKxsJBgAAA",
+    "sha256": "1c36be34cd84b6077bd50971bd323d1de8d78a307ec179a986bf9ff17f5f47cd",
+    "duplicateOf": null,
+    "perceptualHash": "0000110101110011011100010001011010011010001100110110100111101000",
+    "meanLuminance": 180.91780114567118,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-70",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.07 PM (2).jpeg",
+    "optimizedPath": "/media/projects-70-1086.webp",
+    "width": 1086,
+    "height": 1448,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-70-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-70-720.webp"
+      },
+      {
+        "width": 1086,
+        "path": "/media/projects-70-1086.webp"
+      }
+    ],
+    "alt": "Window opening in an unfinished interior with materials on the floor",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoQABUAPxFysVCsJqSisAgBgCIJYwCdMoAC9Fkm5yjh151jgAD+sdHRsbD9+Jx1N9TUZO8Outn3kW95lhm2/se9tCRvqpwVYDns69uksAA=",
+    "sha256": "71aa30b711daf6b72c1feb3b7b8d41ae7d41dbcec3cf647398bf888e6a9e9930",
+    "duplicateOf": null,
+    "perceptualHash": "1111001101111011010011010010110100011101010011011000101100110011",
+    "meanLuminance": 174.3121597834824,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "projects-71",
+    "sourcePath": "assets/projects/WhatsApp Image 2026-10-07 at 4.28.07 PM.jpeg",
+    "optimizedPath": "/media/projects-71-1448.webp",
+    "width": 1448,
+    "height": 1086,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/projects-71-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/projects-71-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/projects-71-1200.webp"
+      },
+      {
+        "width": 1448,
+        "path": "/media/projects-71-1448.webp"
+      }
+    ],
+    "alt": "Room under construction with brown-framed windows on two walls",
+    "category": "projects",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAwABABoJQBOgB6nIriYCAAA/o4ZQmXhGapMcWU/s7igZ3AInn3aNxFpeAAA",
+    "sha256": "5f7a8d8fe764b17d8a6d9b8e3c9f4320fa8352348d89e878d0cf1aae307e613c",
+    "duplicateOf": null,
+    "perceptualHash": "1000011001110001100010101100100011001010110011001000111000100111",
+    "meanLuminance": 174.42707284067438,
+    "review": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used.",
+    "nearDuplicates": [],
+    "visualCategory": "Windows & doors",
+    "placement": "Supporting portfolio",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Crop with subject and embedded marks preserved"
+    }
+  },
+  {
+    "id": "clients-01",
+    "sourcePath": "assets/clients/1176269_184485171731955_453237385_n.jpg",
+    "optimizedPath": "/media/clients-1176269-184485171731955-453237385-n-864.webp",
+    "width": 864,
+    "height": 865,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/clients-1176269-184485171731955-453237385-n-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/clients-1176269-184485171731955-453237385-n-720.webp"
+      },
+      {
+        "width": 864,
+        "path": "/media/clients-1176269-184485171731955-453237385-n-864.webp"
+      }
+    ],
+    "alt": "Ibrahim Cardiac Hospital & Research Institute supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoQABAABABoJbACdADxMZrW73jQlAAA/uuwfWRb6/BUNx4m5g9D5oWmdj2UI8zrVxyteJw4H9PhSJYYfqA5Bi0ybeuEI04C0je5z9kVksbxgccMAAA=",
+    "sha256": "991277cef1e5878be9532263b4ef40f058def327baf44e43419626b2f6344a02",
+    "duplicateOf": null,
+    "perceptualHash": "1110100010010110101100100110110101101001001100111001011011110000",
+    "meanLuminance": 209.0873354206808,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-02",
+    "sourcePath": "assets/clients/assure-group-corporate-logo.png",
+    "optimizedPath": "/media/clients-assure-group-corporate-logo-340.webp",
+    "width": 340,
+    "height": 170,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 340,
+        "path": "/media/clients-assure-group-corporate-logo-340.webp"
+      }
+    ],
+    "alt": "Assure Group supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSFwAAAANcBzJtqrMOQ/XXFgSA4FDKq6rZ1+DiIgJOM0d8utTAJrFdnXcL3NYLTVQel0Pq0Xj2cyDpv5fO8uI8aZWgAbUDAT3XGlQI2iQfflHSgnIZHm+On8TuQQcarEXa1ZQOCA0AAAA8AEAnQEqEAAIAAQAaCWwAnQBH2z5q7qwAPZFX9w5ae1kTpdjD+Qs42kQg/r7yh6BOoAAAA==",
+    "sha256": "e5712f15b7bf48f4388722fb59ce93e0a0c30efc43e1c14b07b5a0b33aba5200",
+    "duplicateOf": null,
+    "perceptualHash": "0000000010011010010110010101101100000101101010101010101000101000",
+    "meanLuminance": 69.5784429065744,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-03",
+    "sourcePath": "assets/clients/basundhara.png",
+    "optimizedPath": "/media/clients-basundhara-400.webp",
+    "width": 400,
+    "height": 150,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/clients-basundhara-360.webp"
+      },
+      {
+        "width": 400,
+        "path": "/media/clients-basundhara-400.webp"
+      }
+    ],
+    "alt": "Bashundhara Group supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4WAoAAAAQAAAADwAABQAAQUxQSFMAAAANcFvbtmntg6fvjBX/5n4JP7IRPRy0ERGxu+//W8WEex9oMoFu9P5BejJzRO+LMY6nTAshpsGyCzOHZBiEAnz4F9ulaInWmET4da5XC9KKhx4oFABWUDggNAAAANABAJ0BKhAABgAEAGglsAJ0AQ5nQYQAAP5uiQCcxXJyCT/2mnY9MdyT3JvNkEk82lmAAAA=",
+    "sha256": "6e148224cb2306c5b401483d962bbb7bb6d932805584206d4a4eee8b305c3205",
+    "duplicateOf": null,
+    "perceptualHash": "1101001010101000101001001011000111010000110100011100011010001100",
+    "meanLuminance": 183.45545,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-04",
+    "sourcePath": "assets/clients/confidence_group_logo.svg",
+    "optimizedPath": "/media/clients-confidence-group-logo-111.webp",
+    "width": 111,
+    "height": 33,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 111,
+        "path": "/media/clients-confidence-group-logo-111.webp"
+      }
+    ],
+    "alt": "Confidence Group supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4WAoAAAAQAAAADwAABAAAQUxQSFEAAAAABhQxRDUZDQsLCwoLCgoKCkNbgYptWFVRT09OTlBMR0aWqcGylJioopmTkJWVhHFrjJOjopGMko2Cd3V7eGJLQzI3WIZ/TTEwKiMiJSIXDQgAVlA4ID4AAADQAQCdASoQAAUABABoJbACdAEN1gs0AAD9OsQIPTBQxQXjgwh+saeIEpuqJMfmPuqOgzdnMa+KFIbaw8AAAA==",
+    "sha256": "3764f260da0488df6497592600e355a2342a573f12437cfb2b07c460953a55ae",
+    "duplicateOf": null,
+    "perceptualHash": "0000000001101000010010000100100010001010110101011101011101101000",
+    "meanLuminance": 74.28501228501229,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-05",
+    "sourcePath": "assets/clients/ibrahim.png",
+    "optimizedPath": "/media/clients-ibrahim-864.webp",
+    "width": 864,
+    "height": 865,
+    "orientation": "portrait",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/clients-ibrahim-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/clients-ibrahim-720.webp"
+      },
+      {
+        "width": 864,
+        "path": "/media/clients-ibrahim-864.webp"
+      }
+    ],
+    "alt": "Ibrahim Cardiac Hospital & Research Institute supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRmwBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSOkAAAANgCTJtmnr7INn27Z6/8+/a9vWtfEuphERgSBWaI3yoesr35+CFeJoJgMKxweFRhFJsh3N58LfZzVGvWSnApJayqGXN6M8oq/fpN2jWh/+/jP9pIuY8SSVarTEic3dzvse7PTf99/yFfLhbebk7SZYdIOHK6j7kpdORWAbUtiaJksSov345XIaaRJHmumAZrzL99K0Dj+3QnNGTaeQ+DxWJxP0cJ8cNS35O1VhD2dhGz5wf+z9Kx/RUsl7eN0GbDiP8pwputFKBTgeisWQ523qaFayWowR5Bu/f04KB5bmxTPZdKhqqsEAAQBWUDggXAAAANACAJ0BKhAAEAAEAGglsAJ0fwVv/kgAMhLbdtlhAxAA/vaSFP5ckYuo1u9ythnYgw8BFw0ndvUpp40dCCCdWW5DzqgQIvdz/aEpH7dX/7YbULLJUT/jry24OAAA",
+    "sha256": "797b6f189184f09fa87d299191dd5a9760f71903c7dd4466061a6320da287e01",
+    "duplicateOf": null,
+    "perceptualHash": "0011000111001100100100100011001110010010001100100100110100110010",
+    "meanLuminance": 209.95905587668594,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-06",
+    "sourcePath": "assets/clients/impress.png",
+    "optimizedPath": "/media/clients-impress-130.webp",
+    "width": 130,
+    "height": 70,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 130,
+        "path": "/media/clients-impress-130.webp"
+      }
+    ],
+    "alt": "Impress Group supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4WAoAAAAQAAAADwAACAAAQUxQSG4AAAANcBvbtqqce3B3i35E/9WQurt/vbxv0ENETAAASH9c2W3fLv4WLUvtz+78S1AYDb6+fb4jTAHGNllfK0jnBWJPFyzUugUA4SBH0dXE64wGdRNqUKaA9tWrN3MMQw1uasIwK8wyDGlCnlNCZqlCgFZQOCBAAAAA8AEAnQEqEAAJAAQAaCWwAnQA9GR+NRtQAP7p9zAG1YZ8Jotsmj+Cwic8CAw3geZOx+mKJEoVg0wTYd799JHAAA==",
+    "sha256": "07551d7f80a649e04444052a298dfd2528ae3b6434fd8e57e3b4987acbc84c9e",
+    "duplicateOf": null,
+    "perceptualHash": "0100100001011101000101010100110100001000000000000000000000000111",
+    "meanLuminance": 105.38142857142857,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-07",
+    "sourcePath": "assets/clients/jcx.svg",
+    "optimizedPath": "/media/clients-jcx-125.webp",
+    "width": 125,
+    "height": 40,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 125,
+        "path": "/media/clients-jcx-125.webp"
+      }
+    ],
+    "alt": "JCX supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4WAoAAAAQAAAADwAABAAAQUxQSFEAAAAAIktaOBICFjE/Oz01Mi4yOFWBj18kAy1whWBTYnNeNBlxnal0Py5gnad0X3eRdjgJVICOZUtZeIiBYlllcGI/GytcbE9EVV9bT0dNTkpHQTMAVlA4ID4AAADQAQCdASoQAAUABABoJbACdAEDY8VJCAD9465zv9vkT3PUHpPSKgqcRe99+4D4emV5F+tAXTp3lCJluAAAAA==",
+    "sha256": "88994f15634c76440d77b9965f7fca06d800dbf4cb02e85487ee42d6b7a2322b",
+    "duplicateOf": null,
+    "perceptualHash": "0100001001001010001010111101001111010001100100001000000010100000",
+    "meanLuminance": 100.5098,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-08",
+    "sourcePath": "assets/clients/logo_BAT_9T5FQ2.png",
+    "optimizedPath": "/media/clients-logo-bat-9t5fq2-154.webp",
+    "width": 154,
+    "height": 69,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 154,
+        "path": "/media/clients-logo-bat-9t5fq2-154.webp"
+      }
+    ],
+    "alt": "BAT Bangladesh supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4WAoAAAAQAAAADwAABgAAQUxQSG4AAAAFcB3Jtmntc++zbVtRvPw/bfu9axtJRERiyDTB9afqo24mODF4gg8HdW8y6ou0StLUJOaPVplg83HymUgRQ5OfvbvlyzYUva+Ql+V19cmFPNRNgecJB20rS7woiT5D534fBOZKVDVJRUFksAQHAFZQOCA0AAAA8AEAnQEqEAAHAAQAaCWoAnQBEP4hHdmAAP7y43UMXfpgfEKaDBf8jnpLAXaTxQfRZ0gAAA==",
+    "sha256": "40dfaa773da17dc3efa83f00a47982eb6e0d32c7d99cfcafe23dc0c92d8706a5",
+    "duplicateOf": null,
+    "perceptualHash": "1000010000000001010100000100100100011010011001101110001010001010",
+    "meanLuminance": 83.96922642574816,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-09",
+    "sourcePath": "assets/clients/new-hope.png",
+    "optimizedPath": "/media/clients-new-hope-121.webp",
+    "width": 121,
+    "height": 35,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 121,
+        "path": "/media/clients-new-hope-121.webp"
+      }
+    ],
+    "alt": "New Hope Group supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4WAoAAAAQAAAADwAABAAAQUxQSFEAAAAAAQMhaoRKDwkcRG5yWDISAQEEK3qYWxgWP2yBcFc5GQEBCjFvhVkhH0+DjnNYORYBARhDanVfNB04aXNfSy4NAQElYIWLfEsWHEJIOTMiCQEAVlA4IDQAAACwAQCdASoQAAUABABoJbACdADcxlgAAP7my6qIkmhqaSdY7HPk1an7BQAkSu/+on4EAAAA",
+    "sha256": "6528eddd35c4be7ee418a5b550457f3c7d22816edc433fd424b49008f9104cfe",
+    "duplicateOf": null,
+    "perceptualHash": "0110000101010111001101110011001000100011110100011001010100101011",
+    "meanLuminance": 65.28193624557261,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-10",
+    "sourcePath": "assets/clients/ntmc.png",
+    "optimizedPath": "/media/clients-ntmc-554.webp",
+    "width": 554,
+    "height": 209,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/clients-ntmc-360.webp"
+      },
+      {
+        "width": 554,
+        "path": "/media/clients-ntmc-554.webp"
+      }
+    ],
+    "alt": "NTMC supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4WAoAAAAQAAAADwAABQAAQUxQSFcAAAANcFDbtmkdPNuM8Pt3+Q1sX9eIiABEon4TbHcRSSEtJkWEbCwD5XQ4CWqW8P/7B7HGBvf7D3AEv883qCP9k8zo7se/p4VOGrVXawzudRQxvP5+qETkIQAAVlA4IDoAAADwAQCdASoQAAYABABoJbAC7AD5iehuDQAA/veCaEP4yRIDQIxK2cZcDY09sAjLz19FUOv8nX+fwAAA",
+    "sha256": "54bf9962fcf57e6f18b722b05cd3404c7a8e122f02cb3c8f0db3446f33139c2a",
+    "duplicateOf": null,
+    "perceptualHash": "0000100001001010010010110110101101010011000100110000010000000001",
+    "meanLuminance": 221.68014267700758,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Bright scene; inspect highlight detail",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-11",
+    "sourcePath": "assets/clients/one-ict.png",
+    "optimizedPath": "/media/clients-one-ict-200.webp",
+    "width": 200,
+    "height": 66,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 200,
+        "path": "/media/clients-one-ict-200.webp"
+      }
+    ],
+    "alt": "OneICT supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4WAoAAAAQAAAADwAABAAAQUxQSFEAAAAAEyY9OR0ODxIPDA0OERIUFS06SkcyIR4iIyInKighICNASFFQQC4nLC8uNDczLCkrMz9NSjYjHiMmJCYmJyclIxsvR0IkEREVFxUUFBYZGRgAVlA4IEwAAADwAQCdASoQAAUABABoJbACdDXAAKwIMAAA9QJLxeMy49JDcExr+UogTTiU/vkveFqGL48gNRk65jYXhp1H3f2/pwXJpi+bGvjJQAAA",
+    "sha256": "f7f09a67a254b413bf3eaeb2b499ea5142fc3241cad48fd62458f3789da98744",
+    "duplicateOf": null,
+    "perceptualHash": "0010010000001001000101100001011000001110001110010011100000100000",
+    "meanLuminance": 30.640833333333333,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Dark scene; preserve atmosphere",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-12",
+    "sourcePath": "assets/clients/shakti.png",
+    "optimizedPath": "/media/clients-shakti-1903.webp",
+    "width": 1903,
+    "height": 437,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/clients-shakti-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/clients-shakti-720.webp"
+      },
+      {
+        "width": 1200,
+        "path": "/media/clients-shakti-1200.webp"
+      },
+      {
+        "width": 1903,
+        "path": "/media/clients-shakti-1903.webp"
+      }
+    ],
+    "alt": "Shakti supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4WAoAAAAQAAAADwAAAwAAQUxQSEEAAAAAaGlFIBscGhwWIVKEk49rMbaweUY/RT09LjV1vdXRm0i1sHhEPEM7OSozc7zTz5pHZWhFHRgcGBgRHk5/jopnLwBWUDggNAAAALABAJ0BKhAABAAEAGglqAJ0AMYoT9AA/slqfMPWLewef97tawa5tDoqqWcIvx36oI8SWgA=",
+    "sha256": "98a9dd068f3e70c5519964e00f9bb353c284108fd888ebfd85c73dbb00936ee2",
+    "duplicateOf": null,
+    "perceptualHash": "0100000011010100110100101101001111010011010100110101001001000000",
+    "meanLuminance": 222.15184142585898,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Large placement suitable",
+      "exposure": "Bright scene; inspect highlight detail",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "clients-13",
+    "sourcePath": "assets/clients/sonali.png",
+    "optimizedPath": "/media/clients-sonali-154.webp",
+    "width": 154,
+    "height": 30,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 154,
+        "path": "/media/clients-sonali-154.webp"
+      }
+    ],
+    "alt": "S.A.I.L. supplied logo",
+    "category": "clients",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4WAoAAAAQAAAADwAAAgAAQUxQSDEAAAAAAQkyVkIzS0QtMDwtFwEBAAEKNmJVR19aQUBMQCkMBAABCjJeXlNhX09KVFE/HQgBAFZQOCAuAAAA0AEAnQEqEAADAAQAaCWgAnQBDvspWQAA/u4uDU7Y1L6CEcdF5ZnCvZQtQV9AAA==",
+    "sha256": "542a144bf5cdf5b6c9cdf06b24f9554f5c3fa3af450478be1d936f31f61c962a",
+    "duplicateOf": null,
+    "perceptualHash": "0010000001100110010100100101111000011010001011110100001100110011",
+    "meanLuminance": 177.34350649350648,
+    "review": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "nearDuplicates": [],
+    "visualCategory": "clients",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "slider-01",
+    "sourcePath": "assets/slider/bg1.jpg",
+    "optimizedPath": "/media/slider-bg1-1120.webp",
+    "width": 1120,
+    "height": 525,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/slider-bg1-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/slider-bg1-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/slider-bg1-1120.webp"
+      }
+    ],
+    "alt": "Wide folding glass doors in a lit interior",
+    "category": "slider",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAgCdASoQAAcABABoJZACdAD0Z0UnGncAAP6qEwS3reHOCb8WCu+P9hUhAwhsYAAAAA==",
+    "sha256": "1a62f61e000b411e495b10d49288931d10bd9eecae69e9cfa12ccde6ec4aa9b7",
+    "duplicateOf": null,
+    "perceptualHash": "1000100100000000000010100100011001100110001100000110001001100001",
+    "meanLuminance": 128.69267346938776,
+    "review": "Three wide glazing photographs; use only as supplied atmospheric/detail references. No location or project ownership inferred.",
+    "nearDuplicates": [],
+    "visualCategory": "slider",
+    "placement": "Brand reference",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "slider-02",
+    "sourcePath": "assets/slider/bg2.jpg",
+    "optimizedPath": "/media/slider-bg2-1120.webp",
+    "width": 1120,
+    "height": 525,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/slider-bg2-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/slider-bg2-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/slider-bg2-1120.webp"
+      }
+    ],
+    "alt": "Black-framed sliding glass doors beneath a translucent ceiling",
+    "category": "slider",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAcABABoJZQAApyZlljWAAD8ixqLjKSsl0QBi3bJ/FjpETNP8AAA",
+    "sha256": "50e13f2d8b359f1db8041af8e710a74025bd98660dee2c763cdf833bdbe312a0",
+    "duplicateOf": null,
+    "perceptualHash": "0010100010000011101101101110101111101011011110110001100101110011",
+    "meanLuminance": 142.21684353741497,
+    "review": "Three wide glazing photographs; use only as supplied atmospheric/detail references. No location or project ownership inferred.",
+    "nearDuplicates": [],
+    "visualCategory": "slider",
+    "placement": "Brand reference",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "slider-03",
+    "sourcePath": "assets/slider/bg3.jpg",
+    "optimizedPath": "/media/slider-bg3-1120.webp",
+    "width": 1120,
+    "height": 525,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/slider-bg3-360.webp"
+      },
+      {
+        "width": 720,
+        "path": "/media/slider-bg3-720.webp"
+      },
+      {
+        "width": 1120,
+        "path": "/media/slider-bg3-1120.webp"
+      }
+    ],
+    "alt": "Frosted glass partition panels with dark frames",
+    "category": "slider",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAcABABoJZwAAmrkqUGQAP2dH+LvkXTwtcKQVAn01rYkJRl1IDwA",
+    "sha256": "b3620bce3e030feea7bf1a047a12688ede0d46e0ad5888fb5d22f13f50eecfbe",
+    "duplicateOf": null,
+    "perceptualHash": "0001111010001111000010111000111110001111100011100000111100001111",
+    "meanLuminance": 131.8605425170068,
+    "review": "Three wide glazing photographs; use only as supplied atmospheric/detail references. No location or project ownership inferred.",
+    "nearDuplicates": [],
+    "visualCategory": "slider",
+    "placement": "Brand reference",
+    "quality": {
+      "resolution": "Medium placement suitable",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "team-01",
+    "sourcePath": "assets/team/team-1.jpg",
+    "optimizedPath": "/media/team-team-1-600.webp",
+    "width": 600,
+    "height": 600,
+    "orientation": "square",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/team-team-1-360.webp"
+      },
+      {
+        "width": 600,
+        "path": "/media/team-team-1-600.webp"
+      }
+    ],
+    "alt": "Supplied studio portrait; identity not confirmed",
+    "category": "team",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQABAABABoJZwAAl3LoVrAIAD+5zsAGIdBmhBoWnRf7tnQ7LFdc/krvDJbzqg/6HdHz3wAAAA=",
+    "sha256": "4db49d7c3789e2be03038906fd1adbe076b5af839f46e558188f29ed2b0b2915",
+    "duplicateOf": null,
+    "perceptualHash": "0110000011100110001100011101100011001100110011001100110011001100",
+    "meanLuminance": 143.24934444444443,
+    "review": "Four studio portraits; identities, roles and authenticity as team members unverified. Excluded from public website pending confirmation.",
+    "nearDuplicates": [],
+    "visualCategory": "team",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "team-02",
+    "sourcePath": "assets/team/team-2.jpg",
+    "optimizedPath": "/media/team-team-2-600.webp",
+    "width": 600,
+    "height": 600,
+    "orientation": "square",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/team-team-2-360.webp"
+      },
+      {
+        "width": 600,
+        "path": "/media/team-team-2-600.webp"
+      }
+    ],
+    "alt": "Supplied studio portrait; identity not confirmed",
+    "category": "team",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQABAABABoJZQAAl3QX2waAAD+5zwJj+yFOTQvjIGLlM77IMspQLv8qLCmASHgbg/WIhqAAAA=",
+    "sha256": "e3e66a0adf14b5c085dfd5db9eedbab4667c96fa8d3cf87fb359a632011db636",
+    "duplicateOf": null,
+    "perceptualHash": "0011000100110010001110011101100111011001101100010110000101100001",
+    "meanLuminance": 158.3757222222222,
+    "review": "Four studio portraits; identities, roles and authenticity as team members unverified. Excluded from public website pending confirmation.",
+    "nearDuplicates": [],
+    "visualCategory": "team",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "team-03",
+    "sourcePath": "assets/team/team-3.jpg",
+    "optimizedPath": "/media/team-team-3-600.webp",
+    "width": 600,
+    "height": 600,
+    "orientation": "square",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/team-team-3-360.webp"
+      },
+      {
+        "width": 600,
+        "path": "/media/team-team-3-600.webp"
+      }
+    ],
+    "alt": "Supplied studio portrait; identity not confirmed",
+    "category": "team",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQABAABABoJZwAAl24+2l85AD+02FiRaL/EjEILqsyjR3v+5utEcbgL2OPsr1AFabJ2l0ygAA=",
+    "sha256": "b7b191cb88bd7893f6c43d8494283ef27c5ca8c0362385ae003739f61da2e4fd",
+    "duplicateOf": null,
+    "perceptualHash": "0011001000110010001100110100100101011000110111001101100011011001",
+    "meanLuminance": 162.87839166666666,
+    "review": "Four studio portraits; identities, roles and authenticity as team members unverified. Excluded from public website pending confirmation.",
+    "nearDuplicates": [],
+    "visualCategory": "team",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "team-04",
+    "sourcePath": "assets/team/team-4.jpg",
+    "optimizedPath": "/media/team-team-4-600.webp",
+    "width": 600,
+    "height": 600,
+    "orientation": "square",
+    "variants": [
+      {
+        "width": 360,
+        "path": "/media/team-team-4-360.webp"
+      },
+      {
+        "width": 600,
+        "path": "/media/team-team-4-600.webp"
+      }
+    ],
+    "alt": "Supplied studio portrait; identity not confirmed",
+    "category": "team",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQABAABABoJYwCdADHYStsumAA/oxsTJyYNb53RpED4AAXvsx/5ppL0a+NWZAA",
+    "sha256": "1b0fc56bcc409a0916246fb3cdb6ca064c4f781e6a881fdedb46f70ae40e4cb6",
+    "duplicateOf": null,
+    "perceptualHash": "1111000011101000101010011011100100010110000111100100011000100110",
+    "meanLuminance": 183.8355222222222,
+    "review": "Four studio portraits; identities, roles and authenticity as team members unverified. Excluded from public website pending confirmation.",
+    "nearDuplicates": [],
+    "visualCategory": "team",
+    "placement": "Withheld until confirmed",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Balanced for editorial placement",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  },
+  {
+    "id": "brand-01",
+    "sourcePath": "assets/logo.png",
+    "optimizedPath": "/media/brand-logo-216.webp",
+    "width": 216,
+    "height": 72,
+    "orientation": "landscape",
+    "variants": [
+      {
+        "width": 216,
+        "path": "/media/brand-logo-216.webp"
+      }
+    ],
+    "alt": "Double Glazing Solutions supplied logo",
+    "category": "brand",
+    "focalPoint": "50% 50%",
+    "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4WAoAAAAQAAAADwAABAAAQUxQSEoAAAANcBvZttNcvCeHAnxISOnUQQGE3nsk3Ug9RERmeVoV5Yn/oKOnNispAhABbTF9aX0AAYIkCqxVk6+oCCAEQQBXF8MpKwJ+IL8UAFZQOCBEAAAA0AEAnQEqEAAFAAQAaCWwAnQBCxsufAAA/tlAAuNYO7cSwY6j8i6ki8jhyzm/Iz+/ufn7/uqKne8iust1vycfuwAFgAA=",
+    "sha256": "cd77cef14d61a864cd86169b219507b0bbf4437c7bc71048ffc6c1c425bb46f5",
+    "duplicateOf": null,
+    "perceptualHash": "1110000001101000011000001101110110011110101010011110100011100000",
+    "meanLuminance": 27.03562242798354,
+    "review": "Supplied logo visibly reads Double Glazing Solutions. Use this business name; compact DGS wordmark is an editable design treatment.",
+    "nearDuplicates": [],
+    "visualCategory": "brand",
+    "placement": "Brand reference",
+    "quality": {
+      "resolution": "Supporting placement only",
+      "exposure": "Dark scene; preserve atmosphere",
+      "focus": "Visually inspected in contact sheet; no artificial detail added",
+      "composition": "Contain illustration or logo to preserve geometry"
+    }
+  }
+]

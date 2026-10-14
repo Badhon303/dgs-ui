@@ -1,0 +1,7 @@
+src/data/asset-manifest.json
+src/data/media-manifest.json
+package-lock.json
+node_modules
+.next
+out
+qa

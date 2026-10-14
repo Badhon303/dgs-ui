@@ -1,0 +1,25 @@
+{
+  "reviewDate": "2026-10-14",
+  "notes": {
+    "brand-01": "Supplied logo visibly reads Double Glazing Solutions. Use this business name; compact DGS wordmark is an editable design treatment.",
+    "products": "Five supplied section illustrations, mostly white-backed. Category labels retained from filenames; image geometry alone does not verify product specification or opening mechanics.",
+    "slider": "Three wide glazing photographs; use only as supplied atmospheric/detail references. No location or project ownership inferred.",
+    "team": "Four studio portraits; identities, roles and authenticity as team members unverified. Excluded from public website pending confirmation.",
+    "clients": "Recognizable organization logos, including a near-duplicate Ibrahim logo. Placement alone does not confirm a client relationship or usage permission. Public endorsement section disabled.",
+    "projects": "71 visually inspected assets. Several photographs have embedded logos; preserve those. Promotional layouts and a group photograph are excluded from portfolio pages. Several images depict the same building or have marked/unmarked variants; retained as separate descriptive views until grouping is confirmed. Low-resolution images are supporting cards, never hero upscales. No generative alterations used."
+  },
+  "excludedProjects": [25, 26, 28, 30, 31, 32],
+  "focalPoints": {
+    "projects-59": "50% 64%",
+    "projects-02": "50% 50%",
+    "projects-29": "50% 54%",
+    "projects-34": "50% 52%",
+    "projects-49": "50% 58%"
+  },
+  "placements": {
+    "hero": "projects-59",
+    "featured": [2, 29, 34, 49, 5, 10],
+    "story": [59, 5, 19]
+  },
+  "launchReview": "Confirm product categories, installation ownership, photograph licenses, project groupings and client/team permissions with the business owner."
+}
